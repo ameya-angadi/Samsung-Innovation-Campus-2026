@@ -1,0 +1,2 @@
+# Samsung-Innovation-Campus-2026
+SIC Repo for python practice.
