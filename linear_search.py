@@ -22,4 +22,4 @@ search_index = sequential_search(search_element, elements)
 if search_index == -1:
     print(f"The search element {search_element} is not found.")
 else:
-        print(f"The search element {search_element} is found at search index {search_index + 1}.")
+    print(f"The search element {search_element} is found at search index {search_index + 1}.")
