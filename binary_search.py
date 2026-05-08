@@ -8,6 +8,10 @@ def binary_search(search_element, input_list):
             if search_element == input_list[mid_index]:
                 return mid_index
             elif search_element < input_list[mid_index]:
-                high = mid_index # set the new search area as 1st half of the list
+                high = mid_index - 1 # set the new search area as 1st half of the list
             else:
                 low = mid_index + 1 # set the search area as 2nd half of List
+    if low>high:
+        mid_index = -1
+        return mid_index
+    
