@@ -1,0 +1,110 @@
+& address of operator
+* value at operator
+
+list - mutable, access with index, ordered
+
+git commands:
+
+1. configuration: 
+	git config --global user.name "ameya-angadi"
+	git config --global user.email "angadiameya007@gmail.com"
+	
+2. copy (clone): Creates a local copy of any public repo
+	git clone https://github.com/ameya-angadi/Samsung-Innovation-Campus-2026
+	
+3. Personal Access Token:
+	Go to Settings->Go To Dev Settings->Personal Access Token -> Classic Token
+	
+4. copy (clone): For private repo
+	git clone https://AccessToken@github.com/ameya-angadi/Samsung-Innovation-Campus-2026
+	
+PUSH and PULL
+PUSH is to copy local files/folders to remote repo
+PULL is to copy remote repo to local folders 
+
+Push:
+	Steps:
+	1. Listing the files and folders ()
+	2. Create the commit object with necessary messages
+	3. PUSH
+
+	Each commit is a version. It is not necessary to push every commit, we can push multiple commits once.
+
+	If in our repo we have 30 old (not modified) + 15 new (5 each in a sub folder, 2 sub folders)
+	+ 2 deleted (5 to be ignored)
+	
+	
+	Now, GIT will only list:
+		10 new files
+		2 deleted files
+	
+PULL:
+	git pull (pulls main branch)
+	git pull origin branch_name
+
+3 Ways for using GIT:
+	GIT CLI
+	GITHUB Desktop
+	VS Code
+------------------------------------------------------
+Analysing Linear Search Algorithm:
+	The solution for Linear Search is Brute Force Technique.
+	Brute Force is the technique that come usually naturally without having to apply any specific Math rule or formula.
+	Thus there is no inventor or author for these solutions.
+
+	Best Case Scenario: Element is found at 1st index, because in this case there is only one iteration
+	Thus Best Case Efficiency for Linear Search is O(1) -> Read as big-Oh of One
+
+	If in case the element is not found or it is found at the last possible index (last position) then it is the Worst case scenario and thus 	the WCE would be O(n), where n is the size of the list.
+
+	If in case the element is found some where at the mid of the list, then can coin the term Avg Case Efficiency and that would be O(n).
+
+Characteristics of Big-Oh:
+	1. It is used usually to find WCE. However, we can also find the other 2. I
+	2. The Big-Oh always depends on the i/p size and gives the efficiency in order of the i/p size, say 'n'.
+	3. The Big-Oh is here to tell us the Order in which the algorithm is. It's duty is Not to give the exact efficiency of the algorithm.
+	4. The Big-Oh gives the efficiency in terms of 'n'
+	5. The Big-Oh uses the Math functions such as factorial, logarithmic, sq-root etc.
+
+------------------------------------------------------
+
+BINARY SEARCH:
+
+	Strategy: Divide and Conquer
+	What it is used for: To search an element in a list (An array and not a linked list)
+	Pre-requisite: It expects the List to be sorted fully
+	Solution:
+	Go to mid element of the list and check if it is the search
+	If yes,
+		then the search can stopped
+	If not,
+		then check if the element is less than the mid element
+		(i.e. if the element is in 1st half of the list)
+	if yes,
+		then set the search area to 1st half of the list
+	if not,
+		set the search area to the 2nd half 
+	Repeat the above steps until at least one element is left
+
+	Pseducode:
+	do this:
+		mid_position = (1st position + last position) // 2
+		if element == list[mid_position] then
+			stop the search and if you wish, return
+			mid_position
+		else
+			if element < list[mid_position] then
+				list = 1st half of list
+			else:
+				list = 2nd half of list
+----------------------------------------------------
+UNDERSTANDING COMMAND LINE ARGUMENTS:
+import sys
+print(type(sys.argv))
+print(sys.argv)
+print(sys.argv[0])
+print(sys.argv[1])
+print(sys.argv[2])
+print(type(sys.argv[2]))
+print(sys.argv[22])
+----------------------------------------------------
