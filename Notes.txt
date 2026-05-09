@@ -97,6 +97,16 @@ BINARY SEARCH:
 				list = 1st half of list
 			else:
 				list = 2nd half of list
+
+	Assume number of iterations of the while loop is X
+	
+	n	n/2	n/4	n/8 ...............	8	4	2	1
+	2^(X-1) 2^(X-2)					2^3	2^2	2^1	2^0
+
+	2^(X-1) = n
+	2^(X) = n		//We ignore -1  because Big Oh gives approx. efficiency
+	X = O(log n)
+
 ----------------------------------------------------
 UNDERSTANDING COMMAND LINE ARGUMENTS:
 import sys
@@ -108,3 +118,46 @@ print(sys.argv[2])
 print(type(sys.argv[2]))
 print(sys.argv[22])
 ----------------------------------------------------
+
+
+Brute Force (Bubble Sort, Selection Sort)
+Decrease and Conquer (Insertion Sort)
+Divide and Conquer (Merge sort, Quick Sort)
+Tree Based Sorting: BBST Sort, Heap Sort
+Combination of Algorithms Sorting: Bucket Sort
+Non Comparative Sorting: Radix Sort
+
+BUBBLE SORT:
+	77	34	55	45	9	13	22	35
+	34	55	45	9	13	22	35	77
+	34	45	9	13	22	35	55	77
+	.
+	.
+	.
+	.
+	9	13	22	34	35	45	55	77
+
+	Best & Worst Case Efficiency: O(n^2)
+	
+	Pseudocode:
+		for i from 0 to n-2 do:
+			for j from 0 to n-2-i do:
+				if list[j]>list[j+1]:
+					swap list[j] and list[j+1]
+	
+	For this pseudocode: 	BCE = O(n^2)
+				WCE = O(n^2)
+
+	Pseudocode:
+		for i from 0 to n-2 do:
+			sorted = true # assume list is sorted
+			for j from 0 to n-2-i do:
+				if list[j]>list[j+1]:
+					swap list[j] and list[j+1]
+					sorted = false
+			if sorted:
+				break
+	
+	For this pseudocode: 	BCE = O(n)
+				WCE = O(n^2)
+				
