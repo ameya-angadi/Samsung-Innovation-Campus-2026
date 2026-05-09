@@ -23,5 +23,5 @@ def my_range(*args):
     else:
         raise TypeError
 
-for i in my_range(72, 41, -4, 10):
+for i in my_range(72, 41, -4):
     print(i, end= "  ")
