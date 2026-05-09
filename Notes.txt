@@ -172,3 +172,26 @@ INSERTION SORT:
 			numbers[j+1] = numbers[j]
 			j -= 1	
 		numbers[j+1] = element
+
+	Best Case Efficiency: O(n)
+	Worst Case Efficiency: O(n^2)
+
+-----------------------------------------------------------------------
+SELECTION SORT:
+	77	34	55	45	9	13	22	35	99
+	element = 77, index = 0 -> element = 34, index = 2 -> element = 9, index = 4
+	9	34	55	45	77	13	22	35	99
+	element = 34, index = 1 -> element = 13, index = 5
+	9	13	55	45	77	34	22	35	99
+
+	Algorithm:
+		How the algorithm works
+		What Strategy it uses
+		Write the algorithm
+		Pseducode
+		Code
+		Efficiency
+		Optimization
+		Application(Where to use and when to use)
+
+	Pseducode:
