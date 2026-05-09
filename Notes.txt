@@ -127,6 +127,7 @@ Tree Based Sorting: BBST Sort, Heap Sort
 Combination of Algorithms Sorting: Bucket Sort
 Non Comparative Sorting: Radix Sort
 
+------------------------------------------------------------------------
 BUBBLE SORT:
 	77	34	55	45	9	13	22	35
 	34	55	45	9	13	22	35	77
@@ -160,4 +161,14 @@ BUBBLE SORT:
 	
 	For this pseudocode: 	BCE = O(n)
 				WCE = O(n^2)
-				
+
+-----------------------------------------------------------------------
+INSERTION SORT:
+	
+	for i in range(n):
+		element = numbers[i]
+		j = i - 1
+		while j >= 0 and element < numbers[j] :
+			numbers[j+1] = numbers[j]
+			j -= 1	
+		numbers[j+1] = element
