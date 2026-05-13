@@ -194,4 +194,67 @@ SELECTION SORT:
 		Optimization
 		Application(Where to use and when to use)
 
-	Pseducode:
+----------------------------------------------------
+Tisha went to her orchard and plucked a bunch of oranges. Now she wants to keep aside some of the oranges to for herself and her children but also sell the biggest ones on the market. She takes a look at the last orange in her hand and decides that she would like to eat it. She seems to think it fair that all the oranges smaller than the orange in her hand can go to her children. All the oranges bigger than this one will be sold on the market. Write a program to help Tisha do this partition. Assume the oranges are neatly stacked in a row.
+
+	numbers = []
+	pivot = numbers[-1]
+	i = 0   # to access each element of the list
+	j = 0 # to know/find the index of the pivot element
+
+	for i in range(len(numbers)-1):
+		if numbers[i] < pivot:
+			numbers[i], numbers[j] = numbers[j] numbers[i]
+			j += 1
+	numbers[-1], numbers[j] = numbers[j] numbers[-1]
+
+The Partition if partitions the array in 2 equal halves then the further number of calls to the partition algorithm would be lesser.
+
+Contrarily, if we are taking the worst case scenario (where we sorting the rray in opposite order) then the number of partitions would linearly grow/increase.
+
+Partition has already a fixed efficiency of O(n)
+The increase in call to the partition() would increase the effic of quick_sort() from Log(n) to 'n'
+
+Thus, the WCE of Quick sort is O(n2)
+
+
+MERGE SORT
+Strategy: Divide and Conquer
+Divide step: Divides the given array into smallest possible chunks of arrays
+Conquer Step: Merge the arrays recursively and during the merge, compare and then add element from the arrays to be
+merged, say A and B into the merged array, say C.
+
+Merge Algorithm and Divide Algorithm
+
+PSEUDOCODE:
+	def divide_array(numbers, low, high):	
+		if low < high:
+		mid = (low+high) // 2
+		divide_array(low, mid-1)
+		divide_array(mid+1, high)
+		merge(numbers[low:mid+1], numbers[mid+1:high])
+		
+	def merge(array_a, array_b):
+		merged_array = []
+		i = j = 0
+		while(len(array_a) or len(array_b)):
+			if array_a[i] < array_b[j]:
+				merged_array[k] = array_a[i]
+				i+=1
+			else:
+				merged_array[k] = array_b[j]
+				j += 1
+			k += 1
+
+-------------------------------------------------------------------------------
+Tree
+* A tree is a non linear data structure
+* It is acyclic DS
+* It has one entry point namely ROOT
+* Data in a tree is stored in it's NODES
+* The nodes in a tree are connected
+* The root is also a node
+* From a Node the nodes we can reach immediately (because they are connected, say, via an edge) are called as child nodes.
+  A node in a tree can have any number of child nodes including zero.
+* A node with zero child node is said to be LEAF node or bramhachari node.
+* 
