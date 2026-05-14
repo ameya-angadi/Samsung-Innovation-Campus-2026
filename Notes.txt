@@ -276,3 +276,10 @@ TREE
 * In a BST if at all levels, the tree is balanced, then any of the CRUD operations (expect the delete) has an efficiency of O(LogN)
 * If in a BST if all nodes have only left child nodes or only right child nodes, then the efficiency of any of the CRUD operations is O(n) which is the worst case efficiency for a BST.
 
+-----------------------------------------------------------------------------------
+
+Operations on BST:
+Adding a new node:
+We always use a new node as a leaf node.
+
+Write a menu driven program to implement insert, updater and search and list element of BST
