@@ -158,4 +158,4 @@ def list_people():
     except:
         print('Listing people failed.')
 
-update_person()
+list_people()
