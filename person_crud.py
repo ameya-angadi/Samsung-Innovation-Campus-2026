@@ -80,15 +80,82 @@ def create_person():
 
 
 def search_person():
-    pass
+    id = int(input("Enter id of person to be searched: "))
+    query = f'select * from people where id = {id};'
+    try:
+        connection = connect_db()
+        cursor = connection.cursor()
+        count = cursor.execute(query)
+        print(f"count = {count}")
+        if count == 1:
+            row = cursor.fetchone()
+            print(row)
+            print(type(row))
+        else:
+            print('No Person was found.')
+        connection.commit()
+        cursor.close()
+        disconnect_db(connection)
+    except:
+        print('Listing people failed.')
 
 def update_person():
-    pass
+    id = int(input("Enter id of person to be updated: "))
+    new_location = input("Enter a new location of the person: ")
+    query = 'update people set location = %s where id = %s'
+    try:
+        connection = connect_db()
+        cursor = connection.cursor()
+        count = cursor.execute(query, (new_location, id))
+        connection.commit()
+        cursor.close()
+        disconnect_db(connection)
+        print(f"count = {count}")
+        if count == 1:
+            print(f"Person with id = {id} is updated")
+        else:
+            print(f"Person with id = {id} not found")
+    except:
+        print('Person updation failed.')
 
 def delete_person():
-    pass
+    id = int(input("Enter id of person to be deleted: "))
+    query = f'delete from people where id = {id}'
+
+    try:
+        connection = connect_db()
+        cursor = connection.cursor()
+        count = cursor.execute(query)
+        connection.commit()
+        print(f"count = {count}")
+        if count == 1:
+            print(f"Person with id = {id} is deleted")
+        else:
+            print(f"Person with id = {id} not found")
+        cursor.close()
+        disconnect_db(connection)
+    except:
+        print('Person deletion failed.')
 
 def list_people():
-    pass
+    query = 'select * from people;'
+    try:
+        connection = connect_db()
+        cursor = connection.cursor()
+        count = cursor.execute(query)
+        print(count)
+        if count >= 1:
+            rows = cursor.fetchall()
+            print(type(rows))
+            for row in rows:
+                print(row)
 
-create_person()
+        else:
+            print('No Person was found.')
+        connection.commit()
+        cursor.close()
+        disconnect_db(connection)
+    except:
+        print('Listing people failed.')
+
+update_person()
