@@ -1,0 +1,13 @@
+select database();
+use world;
+create table people(id int primary key auto_increment, name varchar(64) not null, gender bool not null, location varchar(32));
+select id, name, if(gender = false, 'male', 'female') as gender, location from people;
+insert into people(name, gender, location) values("shreya", true, "mysore");
+delete from people where id = 5;
+delete from people;
+set SQL_SAFE_UPDATES = 0;
+truncate table people;
+drop table people;
+update people set location = 'tumkuru' where id = 2;
+select id, name from people where location = 'tumkuru';
+create database ameya;
