@@ -1,0 +1,1531 @@
+date,branch,sweet_name,selling_price,quantity_kg,cost_per_kg
+2025-04-30,Jayanagar,Motichoor Laddu,₹876.00,2.0,450.0
+2025-01-11,Jayanagar,Kaju Katli,"₹1,276.00",,800.0
+2025-03-15,Jayanagar,Kaju Katli,"₹1,276.00",1.0,800.0
+2025-02-03,Malleswaram,Kaju Katli,"₹1,276.00",4.0,800.0
+2025-03-04,Jayanagar,Kaju Katli,"₹1,276.00",3.0,800.0
+2025-03-10,Indiranagar,Kaju Katli,"₹1,276.00",8.0,800.0
+2025-10-23,Indiranagar,Special Mysore Paak,₹870.00,8.0,500.0
+2025-01-14,Indiranagar,Motichoor Laddu,₹876.00,5.0,450.0
+2025-04-11,Jayanagar,Kaju Katli,"₹1,276.00",8.0,800.0
+2025-09-29,Indiranagar,Kaju Katli,"₹1,276.00",1.0,800.0
+2025-11-28,Malleswaram,Kaju Katli,"₹1,276.00",1.0,800.0
+2025-05-03,Jayanagar,Special Mysore Paak,₹870.00,14.0,500.0
+2025-05-04,Indiranagar,Special Mysore Paak,₹870.00,13.0,500.0
+2025-01-05,Jayanagar,Special Mysore Paak,₹870.00,5.0,500.0
+2025-12-08,Jayanagar,Special Mysore Paak,₹870.00,1.0,500.0
+2025-06-11,Malleswaram,Motichoor Laddu,₹876.00,13.0,450.0
+2025-10-31,Malleswaram,Dry Fruit Mixture,₹933.00,3.0,600.0
+2025-11-13,Jayanagar,Chandrakala,₹819.00,13.0,400.0
+2025-06-22,Jayanagar,Motichoor Laddu,₹876.00,11.0,450.0
+2025-02-26,Jayanagar,Dry Fruit Mixture,₹933.00,1.0,600.0
+2025-10-18,Jayanagar,Motichoor Laddu,₹876.00,13.0,450.0
+2025-07-13,Malleswaram,Chandrakala,₹819.00,15.0,400.0
+2025-03-15,Indiranagar,Dry Fruit Mixture,₹933.00,3.0,600.0
+2025-07-10,Indiranagar,Dry Fruit Mixture,₹933.00,12.0,600.0
+2025-12-28,Malleswaram,Kaju Katli,"₹1,276.00",9.0,800.0
+2025-12-18,Jayanagar,Kaju Katli,"₹1,276.00",13.0,800.0
+2025-08-25,Malleswaram,Special Mysore Paak,₹870.00,,500.0
+2025-05-05,Indiranagar,Motichoor Laddu,₹876.00,10.0,450.0
+2025-01-14,Indiranagar,Dry Fruit Mixture,₹933.00,4.0,600.0
+2025-08-06,Jayanagar,Motichoor Laddu,₹876.00,13.0,450.0
+2025-04-03,Jayanagar,Kaju Katli,"₹1,276.00",10.0,800.0
+2025-12-03,Malleswaram,Dry Fruit Mixture,₹933.00,12.0,600.0
+2025-12-19,Malleswaram,Motichoor Laddu,₹876.00,4.0,450.0
+2025-12-19,Malleswaram,Special Mysore Paak,₹870.00,15.0,500.0
+2025-10-31,Malleswaram,Kaju Katli,"₹1,276.00",9.0,800.0
+2025-05-28,Indiranagar,Dry Fruit Mixture,₹933.00,3.0,600.0
+2025-03-24,Indiranagar,Special Mysore Paak,₹870.00,13.0,500.0
+2025-05-12,Indiranagar,Motichoor Laddu,₹876.00,9.0,450.0
+2025-06-18,Jayanagar,Special Mysore Paak,₹870.00,3.0,500.0
+2025-07-21,Malleswaram,Motichoor Laddu,₹876.00,11.0,450.0
+2025-10-24,Malleswaram,Special Mysore Paak,₹870.00,9.0,500.0
+2025-02-23,Jayanagar,Chandrakala,₹819.00,8.0,400.0
+2025-06-04,Indiranagar,Motichoor Laddu,₹876.00,14.0,450.0
+2025-02-03,Indiranagar,Chandrakala,₹819.00,13.0,400.0
+2025-08-14,Malleswaram,Motichoor Laddu,₹876.00,4.0,450.0
+2025-12-02,Malleswaram,Kaju Katli,"₹1,276.00",3.0,800.0
+2025-08-03,Jayanagar,Kaju Katli,"₹1,276.00",2.0,800.0
+2025-07-25,Jayanagar,Kaju Katli,"₹1,276.00",2.0,800.0
+2025-12-13,Malleswaram,Kaju Katli,"₹1,276.00",4.0,800.0
+2025-02-02,Jayanagar,Chandrakala,₹819.00,9.0,400.0
+2025-07-12,Indiranagar,Kaju Katli,"₹1,276.00",10.0,800.0
+2025-05-30,Malleswaram,Dry Fruit Mixture,₹933.00,14.0,600.0
+2025-02-02,Indiranagar,Special Mysore Paak,₹870.00,9.0,500.0
+2025-06-08,Indiranagar,Kaju Katli,"₹1,276.00",2.0,800.0
+2025-03-24,Malleswaram,Dry Fruit Mixture,₹933.00,9.0,600.0
+2025-11-14,Jayanagar,Chandrakala,₹819.00,14.0,400.0
+2025-06-17,Malleswaram,Kaju Katli,"₹1,276.00",4.0,800.0
+2025-05-13,Indiranagar,Dry Fruit Mixture,₹933.00,2.0,600.0
+2025-02-07,Jayanagar,Motichoor Laddu,₹876.00,11.0,450.0
+2025-05-09,Jayanagar,Motichoor Laddu,₹876.00,14.0,450.0
+2025-12-17,Jayanagar,Kaju Katli,"₹1,276.00",15.0,800.0
+2025-05-22,Jayanagar,Dry Fruit Mixture,₹933.00,11.0,600.0
+2025-09-04,Indiranagar,Kaju Katli,"₹1,276.00",5.0,800.0
+2025-12-30,Jayanagar,Kaju Katli,"₹1,276.00",15.0,800.0
+2025-04-04,Malleswaram,Motichoor Laddu,₹876.00,9.0,450.0
+2025-03-03,Indiranagar,Chandrakala,₹819.00,15.0,400.0
+2025-06-09,Malleswaram,Special Mysore Paak,₹870.00,,500.0
+2025-08-25,Jayanagar,Kaju Katli,"₹1,276.00",13.0,800.0
+2025-06-18,Malleswaram,Dry Fruit Mixture,₹933.00,9.0,600.0
+2025-06-24,Indiranagar,Kaju Katli,"₹1,276.00",5.0,800.0
+2025-06-27,Indiranagar,Special Mysore Paak,₹870.00,4.0,500.0
+2025-07-26,Indiranagar,Motichoor Laddu,₹876.00,12.0,450.0
+2025-10-01,Indiranagar,Special Mysore Paak,₹870.00,6.0,500.0
+2025-09-05,Jayanagar,Chandrakala,₹819.00,13.0,400.0
+2025-12-03,Indiranagar,Chandrakala,₹819.00,15.0,400.0
+2025-04-09,Malleswaram,Special Mysore Paak,₹870.00,4.0,500.0
+2025-09-04,Indiranagar,Dry Fruit Mixture,₹933.00,5.0,600.0
+2025-03-07,Indiranagar,Kaju Katli,"₹1,276.00",1.0,800.0
+2025-10-11,Malleswaram,Dry Fruit Mixture,₹933.00,10.0,600.0
+2025-12-04,Jayanagar,Kaju Katli,"₹1,276.00",9.0,800.0
+2025-10-13,Indiranagar,Special Mysore Paak,₹870.00,4.0,500.0
+2025-11-07,Malleswaram,Kaju Katli,"₹1,276.00",6.0,800.0
+2025-05-10,Indiranagar,Special Mysore Paak,₹870.00,8.0,500.0
+2025-11-02,Malleswaram,Chandrakala,₹819.00,5.0,400.0
+2025-11-26,Jayanagar,Special Mysore Paak,₹870.00,11.0,500.0
+2025-08-27,Malleswaram,Special Mysore Paak,₹870.00,8.0,500.0
+2025-11-29,Indiranagar,Motichoor Laddu,₹876.00,1.0,450.0
+2025-11-15,Malleswaram,Motichoor Laddu,₹876.00,11.0,450.0
+2025-02-21,Indiranagar,Chandrakala,₹819.00,7.0,400.0
+2025-10-27,Indiranagar,Special Mysore Paak,₹870.00,8.0,500.0
+2025-04-10,Indiranagar,Dry Fruit Mixture,₹933.00,1.0,600.0
+2025-06-10,Indiranagar,Chandrakala,₹819.00,10.0,400.0
+2025-06-20,Indiranagar,Special Mysore Paak,₹870.00,12.0,500.0
+2025-07-18,Jayanagar,Chandrakala,₹819.00,7.0,400.0
+2025-07-09,Jayanagar,Kaju Katli,"₹1,276.00",4.0,800.0
+2025-02-14,Malleswaram,Dry Fruit Mixture,₹933.00,7.0,600.0
+2025-01-11,Jayanagar,Chandrakala,₹819.00,3.0,400.0
+2025-01-07,Indiranagar,Kaju Katli,"₹1,276.00",7.0,800.0
+2025-07-24,Indiranagar,Special Mysore Paak,₹870.00,2.0,500.0
+2025-09-19,,Dry Fruit Mixture,₹933.00,14.0,600.0
+2025-01-09,Jayanagar,Special Mysore Paak,₹870.00,14.0,500.0
+2025-10-24,Jayanagar,Dry Fruit Mixture,₹933.00,15.0,600.0
+2025-08-26,Jayanagar,Motichoor Laddu,₹876.00,9.0,450.0
+2025-02-26,Jayanagar,Kaju Katli,"₹1,276.00",9.0,800.0
+2025-04-12,Malleswaram,Dry Fruit Mixture,₹933.00,3.0,600.0
+2025-04-30,Malleswaram,Dry Fruit Mixture,₹933.00,14.0,600.0
+2025-11-25,Jayanagar,Dry Fruit Mixture,₹933.00,1.0,600.0
+2025-05-31,Malleswaram,Chandrakala,₹819.00,11.0,400.0
+2025-09-29,Malleswaram,Kaju Katli,"₹1,276.00",2.0,800.0
+2025-05-30,Malleswaram,Special Mysore Paak,₹870.00,11.0,500.0
+2025-03-29,Jayanagar,Kaju Katli,"₹1,276.00",15.0,800.0
+2025-01-31,Jayanagar,Chandrakala,₹819.00,4.0,400.0
+2025-04-28,Malleswaram,Motichoor Laddu,₹876.00,15.0,450.0
+2025-03-28,Indiranagar,Special Mysore Paak,₹870.00,3.0,500.0
+2025-05-11,Indiranagar,Chandrakala,₹819.00,4.0,400.0
+2025-11-12,Malleswaram,Kaju Katli,"₹1,276.00",15.0,800.0
+2025-06-12,Indiranagar,Dry Fruit Mixture,₹933.00,8.0,600.0
+2025-01-09,Malleswaram,Chandrakala,₹819.00,8.0,400.0
+2025-12-29,Jayanagar,Kaju Katli,"₹1,276.00",15.0,800.0
+2025-06-08,Malleswaram,Special Mysore Paak,₹870.00,7.0,500.0
+2025-05-03,Jayanagar,Kaju Katli,"₹1,276.00",13.0,800.0
+2025-08-17,Indiranagar,Chandrakala,₹819.00,3.0,400.0
+2025-07-27,Jayanagar,Dry Fruit Mixture,₹933.00,5.0,600.0
+2025-05-18,Jayanagar,Dry Fruit Mixture,₹933.00,9.0,600.0
+2025-10-20,Malleswaram,Kaju Katli,"₹1,276.00",2.0,800.0
+2025-09-30,Indiranagar,Chandrakala,₹819.00,1.0,400.0
+2025-12-05,Indiranagar,Dry Fruit Mixture,₹933.00,8.0,600.0
+2025-11-15,Indiranagar,Special Mysore Paak,₹870.00,2.0,500.0
+2025-01-02,Malleswaram,Motichoor Laddu,₹876.00,6.0,450.0
+2025-10-15,Malleswaram,Special Mysore Paak,₹870.00,7.0,500.0
+2025-05-19,Jayanagar,Kaju Katli,"₹1,276.00",1.0,800.0
+2025-02-24,Indiranagar,Motichoor Laddu,₹876.00,6.0,450.0
+2025-12-19,Indiranagar,Chandrakala,₹819.00,4.0,400.0
+2025-11-22,Indiranagar,Special Mysore Paak,₹870.00,15.0,500.0
+2025-05-31,Indiranagar,Chandrakala,₹819.00,13.0,400.0
+2025-10-29,Jayanagar,Chandrakala,₹819.00,8.0,400.0
+2025-11-04,Indiranagar,Kaju Katli,"₹1,276.00",10.0,800.0
+2025-12-16,Malleswaram,Dry Fruit Mixture,₹933.00,15.0,600.0
+2025-12-08,Malleswaram,Dry Fruit Mixture,₹933.00,11.0,600.0
+2025-03-10,Indiranagar,Motichoor Laddu,₹876.00,,450.0
+2025-08-07,Indiranagar,Motichoor Laddu,₹876.00,15.0,450.0
+2025-05-08,Jayanagar,Motichoor Laddu,₹876.00,6.0,450.0
+2025-12-01,Indiranagar,Motichoor Laddu,₹876.00,14.0,450.0
+2025-09-12,Jayanagar,Kaju Katli,"₹1,276.00",11.0,800.0
+2025-06-14,Indiranagar,Motichoor Laddu,₹876.00,11.0,450.0
+2025-05-02,Indiranagar,Chandrakala,₹819.00,1.0,400.0
+2025-11-27,Jayanagar,Chandrakala,₹819.00,,400.0
+2025-01-24,Malleswaram,Chandrakala,₹819.00,12.0,400.0
+2025-03-15,Indiranagar,Special Mysore Paak,₹870.00,3.0,500.0
+2025-02-02,Malleswaram,Kaju Katli,"₹1,276.00",5.0,800.0
+2025-06-26,Malleswaram,Dry Fruit Mixture,₹933.00,7.0,600.0
+2025-01-29,Malleswaram,Special Mysore Paak,₹870.00,4.0,500.0
+2025-08-19,Malleswaram,Special Mysore Paak,₹870.00,14.0,500.0
+2025-04-27,Jayanagar,Chandrakala,₹819.00,2.0,400.0
+2025-06-26,Malleswaram,Kaju Katli,"₹1,276.00",10.0,800.0
+2025-09-03,Jayanagar,Kaju Katli,"₹1,276.00",3.0,800.0
+2025-01-27,Indiranagar,Motichoor Laddu,₹876.00,1.0,450.0
+2025-05-22,Jayanagar,Dry Fruit Mixture,₹933.00,1.0,600.0
+2025-02-06,Malleswaram,Special Mysore Paak,₹870.00,14.0,500.0
+2025-06-27,Indiranagar,Dry Fruit Mixture,₹933.00,12.0,600.0
+2025-05-03,Malleswaram,Motichoor Laddu,₹876.00,14.0,450.0
+2025-01-06,Indiranagar,Dry Fruit Mixture,₹933.00,2.0,600.0
+2025-09-25,Indiranagar,Motichoor Laddu,₹876.00,,450.0
+2025-03-28,Indiranagar,Chandrakala,₹819.00,14.0,400.0
+2025-07-18,Malleswaram,Dry Fruit Mixture,₹933.00,10.0,600.0
+2025-05-11,Malleswaram,Dry Fruit Mixture,₹933.00,6.0,600.0
+2025-08-21,Malleswaram,Chandrakala,₹819.00,3.0,400.0
+2025-05-06,Jayanagar,Chandrakala,₹819.00,1.0,400.0
+2025-06-20,Malleswaram,Chandrakala,₹819.00,10.0,400.0
+2025-04-16,Malleswaram,Kaju Katli,"₹1,276.00",6.0,800.0
+2025-01-20,Jayanagar,Kaju Katli,"₹1,276.00",14.0,800.0
+2025-08-24,Jayanagar,Special Mysore Paak,₹870.00,12.0,500.0
+2025-10-19,Indiranagar,Special Mysore Paak,₹870.00,6.0,500.0
+2025-11-07,Malleswaram,Chandrakala,₹819.00,1.0,400.0
+2025-03-11,Indiranagar,Special Mysore Paak,₹870.00,15.0,500.0
+2025-12-07,Malleswaram,Chandrakala,₹819.00,2.0,400.0
+2025-07-02,Indiranagar,Motichoor Laddu,₹876.00,8.0,450.0
+2025-02-25,Jayanagar,Chandrakala,₹819.00,15.0,400.0
+2025-03-30,Malleswaram,Dry Fruit Mixture,₹933.00,10.0,600.0
+2025-03-17,Malleswaram,Motichoor Laddu,₹876.00,6.0,450.0
+2025-04-15,Jayanagar,Kaju Katli,"₹1,276.00",14.0,800.0
+2025-03-30,Jayanagar,Kaju Katli,"₹1,276.00",,800.0
+2025-04-12,Indiranagar,Motichoor Laddu,₹876.00,15.0,450.0
+2025-04-13,Jayanagar,Motichoor Laddu,₹876.00,9.0,450.0
+2025-04-02,Malleswaram,Kaju Katli,"₹1,276.00",7.0,800.0
+2025-03-25,Malleswaram,Chandrakala,₹819.00,5.0,400.0
+2025-10-19,Indiranagar,Dry Fruit Mixture,₹933.00,12.0,600.0
+2025-08-02,Indiranagar,Motichoor Laddu,₹876.00,1.0,450.0
+2025-05-10,Malleswaram,Special Mysore Paak,₹870.00,10.0,500.0
+2025-02-15,Indiranagar,Motichoor Laddu,₹876.00,13.0,450.0
+2025-11-16,Indiranagar,Special Mysore Paak,₹870.00,5.0,500.0
+2025-02-06,Indiranagar,Chandrakala,₹819.00,2.0,400.0
+2025-08-29,Jayanagar,Kaju Katli,"₹1,276.00",12.0,800.0
+2025-01-23,Malleswaram,Chandrakala,₹819.00,4.0,400.0
+2025-03-07,Indiranagar,Dry Fruit Mixture,₹933.00,12.0,600.0
+2025-09-09,Indiranagar,Kaju Katli,"₹1,276.00",2.0,800.0
+2025-12-23,Jayanagar,Special Mysore Paak,₹870.00,9.0,500.0
+2025-12-16,Jayanagar,Dry Fruit Mixture,₹933.00,13.0,600.0
+2025-07-12,Malleswaram,Special Mysore Paak,₹870.00,4.0,500.0
+2025-02-17,Indiranagar,Motichoor Laddu,₹876.00,14.0,450.0
+2025-07-03,Indiranagar,Chandrakala,₹819.00,9.0,400.0
+2025-05-30,Malleswaram,Dry Fruit Mixture,₹933.00,1.0,600.0
+2025-06-10,Jayanagar,Motichoor Laddu,₹876.00,1.0,450.0
+2025-04-05,Jayanagar,Kaju Katli,"₹1,276.00",1.0,800.0
+2025-05-22,Malleswaram,Special Mysore Paak,₹870.00,10.0,500.0
+2025-12-08,Indiranagar,Chandrakala,₹819.00,6.0,400.0
+2025-06-13,Jayanagar,Kaju Katli,"₹1,276.00",5.0,800.0
+2025-12-09,Indiranagar,Special Mysore Paak,₹870.00,12.0,500.0
+2025-05-07,Malleswaram,Motichoor Laddu,₹876.00,10.0,450.0
+2025-08-23,Indiranagar,Kaju Katli,"₹1,276.00",3.0,800.0
+2025-05-29,Jayanagar,Special Mysore Paak,₹870.00,10.0,500.0
+2025-04-04,Jayanagar,Motichoor Laddu,₹876.00,6.0,450.0
+2025-04-13,Malleswaram,Motichoor Laddu,₹876.00,,450.0
+2025-03-24,Jayanagar,Motichoor Laddu,₹876.00,10.0,450.0
+2025-08-18,Jayanagar,Special Mysore Paak,₹870.00,1.0,500.0
+2025-08-05,Jayanagar,Special Mysore Paak,₹870.00,2.0,500.0
+2025-10-10,Jayanagar,Chandrakala,₹819.00,1.0,400.0
+2025-05-07,Indiranagar,Kaju Katli,"₹1,276.00",6.0,800.0
+2025-08-25,Malleswaram,Motichoor Laddu,₹876.00,15.0,450.0
+2025-04-11,Jayanagar,Kaju Katli,"₹1,276.00",7.0,800.0
+2025-06-27,Indiranagar,Special Mysore Paak,₹870.00,11.0,500.0
+2025-11-03,Jayanagar,Chandrakala,₹819.00,7.0,400.0
+2025-02-15,Jayanagar,Special Mysore Paak,₹870.00,8.0,500.0
+2025-05-29,,Dry Fruit Mixture,₹933.00,7.0,600.0
+2025-04-21,Malleswaram,Special Mysore Paak,₹870.00,14.0,500.0
+2025-10-25,Jayanagar,Special Mysore Paak,₹870.00,13.0,500.0
+2025-06-15,Indiranagar,Chandrakala,₹819.00,4.0,400.0
+2025-01-06,Jayanagar,Chandrakala,₹819.00,8.0,400.0
+2025-03-20,Malleswaram,Kaju Katli,"₹1,276.00",6.0,800.0
+2025-06-30,Malleswaram,Dry Fruit Mixture,₹933.00,2.0,600.0
+2025-06-16,Jayanagar,Dry Fruit Mixture,₹933.00,7.0,600.0
+2025-06-24,Malleswaram,Chandrakala,₹819.00,8.0,400.0
+2025-06-18,Malleswaram,Special Mysore Paak,₹870.00,9.0,500.0
+2025-03-21,Jayanagar,Kaju Katli,"₹1,276.00",11.0,800.0
+2025-11-29,Malleswaram,Chandrakala,₹819.00,9.0,400.0
+2025-11-18,Malleswaram,Kaju Katli,"₹1,276.00",11.0,800.0
+2025-09-18,Jayanagar,Motichoor Laddu,₹876.00,8.0,450.0
+2025-12-15,Malleswaram,Dry Fruit Mixture,₹933.00,1.0,600.0
+2025-01-20,Jayanagar,Kaju Katli,"₹1,276.00",8.0,800.0
+2025-06-14,Malleswaram,Motichoor Laddu,₹876.00,2.0,450.0
+2025-06-03,Jayanagar,Chandrakala,₹819.00,9.0,400.0
+2025-02-27,,Dry Fruit Mixture,₹933.00,13.0,600.0
+2025-01-08,Malleswaram,Kaju Katli,"₹1,276.00",3.0,800.0
+2025-04-11,Jayanagar,Dry Fruit Mixture,₹933.00,5.0,600.0
+2025-12-04,Indiranagar,Chandrakala,₹819.00,12.0,400.0
+2025-11-12,Malleswaram,Kaju Katli,"₹1,276.00",15.0,800.0
+2025-05-20,Malleswaram,Kaju Katli,"₹1,276.00",2.0,800.0
+2025-01-13,Indiranagar,Motichoor Laddu,₹876.00,15.0,450.0
+2025-10-06,Indiranagar,Kaju Katli,"₹1,276.00",15.0,800.0
+2025-07-17,Malleswaram,Motichoor Laddu,₹876.00,10.0,450.0
+2025-12-26,Malleswaram,Motichoor Laddu,₹876.00,12.0,450.0
+2025-09-14,Indiranagar,Chandrakala,₹819.00,,400.0
+2025-06-07,Indiranagar,Dry Fruit Mixture,₹933.00,8.0,600.0
+2025-05-13,Jayanagar,Kaju Katli,"₹1,276.00",4.0,800.0
+2025-12-12,Indiranagar,Dry Fruit Mixture,₹933.00,8.0,600.0
+2025-02-19,Indiranagar,Dry Fruit Mixture,₹933.00,15.0,600.0
+2025-05-13,Jayanagar,Motichoor Laddu,₹876.00,8.0,450.0
+2025-05-21,Jayanagar,Dry Fruit Mixture,₹933.00,1.0,600.0
+2025-04-28,Malleswaram,Special Mysore Paak,₹870.00,8.0,500.0
+2025-10-24,Malleswaram,Special Mysore Paak,₹870.00,5.0,500.0
+2025-01-27,Malleswaram,Dry Fruit Mixture,₹933.00,5.0,600.0
+2025-05-22,Jayanagar,Dry Fruit Mixture,₹933.00,5.0,600.0
+2025-03-31,Malleswaram,Chandrakala,₹819.00,10.0,400.0
+2025-03-07,Jayanagar,Motichoor Laddu,₹876.00,10.0,450.0
+2025-07-09,Indiranagar,Motichoor Laddu,₹876.00,14.0,450.0
+2025-04-22,Malleswaram,Special Mysore Paak,₹870.00,12.0,500.0
+2025-11-17,Malleswaram,Kaju Katli,"₹1,276.00",10.0,800.0
+2025-06-30,Jayanagar,Motichoor Laddu,₹876.00,3.0,450.0
+2025-03-15,Indiranagar,Special Mysore Paak,₹870.00,1.0,500.0
+2025-12-13,Jayanagar,Dry Fruit Mixture,₹933.00,1.0,600.0
+2025-03-10,Jayanagar,Kaju Katli,"₹1,276.00",2.0,800.0
+2025-01-19,Jayanagar,Chandrakala,₹819.00,9.0,400.0
+2025-10-20,Jayanagar,Dry Fruit Mixture,₹933.00,14.0,600.0
+2025-11-30,Malleswaram,Kaju Katli,"₹1,276.00",7.0,800.0
+2025-01-26,Indiranagar,Chandrakala,₹819.00,,400.0
+2025-12-30,Malleswaram,Special Mysore Paak,₹870.00,5.0,500.0
+2025-10-31,Indiranagar,Motichoor Laddu,₹876.00,8.0,450.0
+2025-06-12,Indiranagar,Chandrakala,₹819.00,11.0,400.0
+2025-03-13,Malleswaram,Chandrakala,₹819.00,1.0,400.0
+2025-08-21,Jayanagar,Special Mysore Paak,₹870.00,4.0,500.0
+2025-02-28,Malleswaram,Chandrakala,₹819.00,4.0,400.0
+2025-04-04,Malleswaram,Dry Fruit Mixture,₹933.00,11.0,600.0
+2025-06-14,Malleswaram,Dry Fruit Mixture,₹933.00,3.0,600.0
+2025-01-16,Malleswaram,Kaju Katli,"₹1,276.00",4.0,800.0
+2025-08-04,Malleswaram,Special Mysore Paak,₹870.00,9.0,500.0
+2025-04-09,Jayanagar,Chandrakala,₹819.00,,400.0
+2025-04-06,Malleswaram,Special Mysore Paak,₹870.00,7.0,500.0
+2025-10-01,Malleswaram,Chandrakala,₹819.00,2.0,400.0
+2025-01-11,Indiranagar,Motichoor Laddu,₹876.00,,450.0
+2025-08-02,Malleswaram,Special Mysore Paak,₹870.00,1.0,500.0
+2025-09-29,Malleswaram,Dry Fruit Mixture,₹933.00,11.0,600.0
+2025-05-10,Indiranagar,Motichoor Laddu,₹876.00,1.0,450.0
+2025-01-11,Malleswaram,Special Mysore Paak,₹870.00,,500.0
+2025-09-14,Indiranagar,Special Mysore Paak,₹870.00,14.0,500.0
+2025-07-04,Malleswaram,Dry Fruit Mixture,₹933.00,11.0,600.0
+2025-03-09,Malleswaram,Special Mysore Paak,₹870.00,2.0,500.0
+2025-05-18,Indiranagar,Motichoor Laddu,₹876.00,8.0,450.0
+2025-04-14,Malleswaram,Kaju Katli,"₹1,276.00",13.0,800.0
+2025-03-15,Jayanagar,Kaju Katli,"₹1,276.00",1.0,800.0
+2025-09-13,Indiranagar,Motichoor Laddu,₹876.00,14.0,450.0
+2025-11-05,Malleswaram,Special Mysore Paak,₹870.00,9.0,500.0
+2025-04-14,Jayanagar,Special Mysore Paak,₹870.00,3.0,500.0
+2025-12-26,Malleswaram,Chandrakala,₹819.00,6.0,400.0
+2025-04-03,Indiranagar,Motichoor Laddu,₹876.00,3.0,450.0
+2025-06-02,Malleswaram,Kaju Katli,"₹1,276.00",11.0,800.0
+2025-11-23,Jayanagar,Chandrakala,₹819.00,6.0,400.0
+2025-03-02,Jayanagar,Dry Fruit Mixture,₹933.00,6.0,600.0
+2025-12-22,,Kaju Katli,"₹1,276.00",14.0,800.0
+2025-05-07,Jayanagar,Motichoor Laddu,₹876.00,,450.0
+2025-08-01,Jayanagar,Special Mysore Paak,₹870.00,10.0,500.0
+2025-10-08,Jayanagar,Chandrakala,₹819.00,2.0,400.0
+2025-08-08,Jayanagar,Dry Fruit Mixture,₹933.00,7.0,600.0
+2025-11-29,Jayanagar,Special Mysore Paak,₹870.00,4.0,500.0
+2025-02-28,Malleswaram,Motichoor Laddu,₹876.00,15.0,450.0
+2025-01-13,Jayanagar,Chandrakala,₹819.00,1.0,400.0
+2025-05-08,Jayanagar,Dry Fruit Mixture,₹933.00,11.0,600.0
+2025-02-16,Jayanagar,Special Mysore Paak,₹870.00,6.0,500.0
+2025-06-09,Malleswaram,Motichoor Laddu,₹876.00,9.0,450.0
+2025-10-28,Jayanagar,Chandrakala,₹819.00,12.0,400.0
+2025-07-08,Indiranagar,Kaju Katli,"₹1,276.00",8.0,800.0
+2025-01-20,Indiranagar,Dry Fruit Mixture,₹933.00,8.0,600.0
+2025-09-10,Jayanagar,Motichoor Laddu,₹876.00,13.0,450.0
+2025-02-20,Jayanagar,Dry Fruit Mixture,₹933.00,15.0,600.0
+2025-11-02,Jayanagar,Special Mysore Paak,₹870.00,3.0,500.0
+2025-07-03,Malleswaram,Special Mysore Paak,₹870.00,5.0,500.0
+2025-05-12,Jayanagar,Kaju Katli,"₹1,276.00",14.0,800.0
+2025-10-11,Indiranagar,Chandrakala,₹819.00,9.0,400.0
+2025-02-27,Jayanagar,Chandrakala,₹819.00,,400.0
+2025-02-05,Jayanagar,Special Mysore Paak,₹870.00,6.0,500.0
+2025-05-12,Jayanagar,Kaju Katli,"₹1,276.00",12.0,800.0
+2025-11-26,,Special Mysore Paak,₹870.00,5.0,500.0
+2025-04-10,Jayanagar,Special Mysore Paak,₹870.00,8.0,500.0
+2025-07-06,Jayanagar,Kaju Katli,"₹1,276.00",12.0,800.0
+2025-09-07,Indiranagar,Special Mysore Paak,₹870.00,14.0,500.0
+2025-06-15,Indiranagar,Motichoor Laddu,₹876.00,2.0,450.0
+2025-12-29,Malleswaram,Dry Fruit Mixture,₹933.00,11.0,600.0
+2025-12-21,,Chandrakala,₹819.00,9.0,400.0
+2025-07-20,Jayanagar,Chandrakala,₹819.00,9.0,400.0
+2025-09-19,Jayanagar,Special Mysore Paak,₹870.00,15.0,500.0
+2025-05-14,Malleswaram,Dry Fruit Mixture,₹933.00,7.0,600.0
+2025-10-14,Malleswaram,Kaju Katli,"₹1,276.00",11.0,800.0
+2025-07-01,Indiranagar,Chandrakala,₹819.00,15.0,400.0
+2025-09-16,,Special Mysore Paak,₹870.00,5.0,500.0
+2025-07-22,Indiranagar,Special Mysore Paak,₹870.00,13.0,500.0
+2025-07-16,Indiranagar,Chandrakala,₹819.00,12.0,400.0
+2025-05-04,Jayanagar,Chandrakala,₹819.00,11.0,400.0
+2025-07-28,Indiranagar,Special Mysore Paak,₹870.00,8.0,500.0
+2025-11-22,Jayanagar,Kaju Katli,"₹1,276.00",,800.0
+2025-02-17,Indiranagar,Special Mysore Paak,₹870.00,,500.0
+2025-09-11,Jayanagar,Chandrakala,₹819.00,4.0,400.0
+2025-02-10,Indiranagar,Special Mysore Paak,₹870.00,11.0,500.0
+2025-10-06,Jayanagar,Special Mysore Paak,₹870.00,10.0,500.0
+2025-01-30,Indiranagar,Chandrakala,₹819.00,7.0,400.0
+2025-06-12,Malleswaram,Motichoor Laddu,₹876.00,4.0,450.0
+2025-01-26,Indiranagar,Dry Fruit Mixture,₹933.00,15.0,600.0
+2025-02-16,Jayanagar,Kaju Katli,"₹1,276.00",3.0,800.0
+2025-09-16,Indiranagar,Special Mysore Paak,₹870.00,15.0,500.0
+2025-07-29,Malleswaram,Motichoor Laddu,₹876.00,10.0,450.0
+2025-06-13,Malleswaram,Chandrakala,₹819.00,5.0,400.0
+2025-10-25,Jayanagar,Kaju Katli,"₹1,276.00",8.0,800.0
+2025-11-14,Indiranagar,Kaju Katli,"₹1,276.00",11.0,800.0
+2025-05-03,Jayanagar,Motichoor Laddu,₹876.00,8.0,450.0
+2025-01-28,Malleswaram,Motichoor Laddu,₹876.00,7.0,450.0
+2025-12-19,Indiranagar,Kaju Katli,"₹1,276.00",15.0,800.0
+2025-09-13,Jayanagar,Special Mysore Paak,₹870.00,12.0,500.0
+2025-08-16,Jayanagar,Kaju Katli,"₹1,276.00",14.0,800.0
+2025-03-05,Jayanagar,Kaju Katli,"₹1,276.00",14.0,800.0
+2025-08-17,Jayanagar,Special Mysore Paak,₹870.00,10.0,500.0
+2025-08-10,Jayanagar,Motichoor Laddu,₹876.00,1.0,450.0
+2025-05-13,Jayanagar,Chandrakala,₹819.00,3.0,400.0
+2025-05-25,Jayanagar,Special Mysore Paak,₹870.00,,500.0
+2025-10-11,,Dry Fruit Mixture,₹933.00,1.0,600.0
+2025-10-19,Malleswaram,Kaju Katli,"₹1,276.00",9.0,800.0
+2025-03-19,Indiranagar,Chandrakala,₹819.00,,400.0
+2025-06-29,Jayanagar,Dry Fruit Mixture,₹933.00,,600.0
+2025-12-07,Malleswaram,Chandrakala,₹819.00,3.0,400.0
+2025-01-14,Indiranagar,Kaju Katli,"₹1,276.00",8.0,800.0
+2025-04-09,Jayanagar,Dry Fruit Mixture,₹933.00,8.0,600.0
+2025-02-28,Jayanagar,Kaju Katli,"₹1,276.00",11.0,800.0
+2025-04-03,Jayanagar,Dry Fruit Mixture,₹933.00,7.0,600.0
+2025-10-16,Jayanagar,Dry Fruit Mixture,₹933.00,13.0,600.0
+2025-12-13,Indiranagar,Dry Fruit Mixture,₹933.00,12.0,600.0
+2025-07-11,Indiranagar,Dry Fruit Mixture,₹933.00,13.0,600.0
+2025-10-09,Jayanagar,Dry Fruit Mixture,₹933.00,9.0,600.0
+2025-01-12,Indiranagar,Kaju Katli,"₹1,276.00",11.0,800.0
+2025-07-11,Indiranagar,Motichoor Laddu,₹876.00,,450.0
+2025-10-19,Malleswaram,Chandrakala,₹819.00,7.0,400.0
+2025-09-27,,Chandrakala,₹819.00,12.0,400.0
+2025-07-05,Jayanagar,Chandrakala,₹819.00,15.0,400.0
+2025-01-28,Indiranagar,Chandrakala,₹819.00,9.0,400.0
+2025-03-02,Malleswaram,Motichoor Laddu,₹876.00,9.0,450.0
+2025-03-15,Indiranagar,Dry Fruit Mixture,₹933.00,,600.0
+2025-02-28,Malleswaram,Special Mysore Paak,₹870.00,11.0,500.0
+2025-04-03,Malleswaram,Kaju Katli,"₹1,276.00",12.0,800.0
+2025-12-06,Jayanagar,Motichoor Laddu,₹876.00,15.0,450.0
+2025-08-26,Malleswaram,Dry Fruit Mixture,₹933.00,9.0,600.0
+2025-02-15,Jayanagar,Dry Fruit Mixture,₹933.00,14.0,600.0
+2025-01-17,Jayanagar,Dry Fruit Mixture,₹933.00,6.0,600.0
+2025-01-01,Jayanagar,Kaju Katli,"₹1,276.00",7.0,800.0
+2025-04-02,Jayanagar,Special Mysore Paak,₹870.00,5.0,500.0
+2025-10-16,Malleswaram,Chandrakala,₹819.00,3.0,400.0
+2025-03-27,Jayanagar,Dry Fruit Mixture,₹933.00,10.0,600.0
+2025-02-19,Jayanagar,Dry Fruit Mixture,₹933.00,12.0,600.0
+2025-03-03,Indiranagar,Kaju Katli,"₹1,276.00",1.0,800.0
+2025-10-11,Malleswaram,Kaju Katli,"₹1,276.00",12.0,800.0
+2025-08-31,Malleswaram,Kaju Katli,"₹1,276.00",3.0,800.0
+2025-06-02,Malleswaram,Dry Fruit Mixture,₹933.00,1.0,600.0
+2025-01-19,Malleswaram,Motichoor Laddu,₹876.00,,450.0
+2025-08-06,Indiranagar,Dry Fruit Mixture,₹933.00,10.0,600.0
+2025-06-11,Malleswaram,Special Mysore Paak,₹870.00,14.0,500.0
+2025-02-25,Jayanagar,Special Mysore Paak,₹870.00,4.0,500.0
+2025-03-11,Malleswaram,Dry Fruit Mixture,₹933.00,14.0,600.0
+2025-01-01,Indiranagar,Motichoor Laddu,₹876.00,10.0,450.0
+2025-05-16,Malleswaram,Motichoor Laddu,₹876.00,2.0,450.0
+2025-10-29,Indiranagar,Special Mysore Paak,₹870.00,5.0,500.0
+2025-05-25,Malleswaram,Chandrakala,₹819.00,1.0,400.0
+2025-12-08,Malleswaram,Kaju Katli,"₹1,276.00",7.0,800.0
+2025-09-28,Indiranagar,Special Mysore Paak,₹870.00,3.0,500.0
+2025-02-21,Jayanagar,Motichoor Laddu,₹876.00,5.0,450.0
+2025-11-09,Indiranagar,Motichoor Laddu,₹876.00,6.0,450.0
+2025-01-15,Indiranagar,Dry Fruit Mixture,₹933.00,14.0,600.0
+2025-08-06,Indiranagar,Dry Fruit Mixture,₹933.00,6.0,600.0
+2025-08-11,Indiranagar,Kaju Katli,"₹1,276.00",7.0,800.0
+2025-02-25,Jayanagar,Kaju Katli,"₹1,276.00",5.0,800.0
+2025-05-30,Indiranagar,Dry Fruit Mixture,₹933.00,9.0,600.0
+2025-03-28,Indiranagar,Kaju Katli,"₹1,276.00",10.0,800.0
+2025-11-01,Malleswaram,Special Mysore Paak,₹870.00,5.0,500.0
+2025-09-16,Indiranagar,Kaju Katli,"₹1,276.00",11.0,800.0
+2025-06-08,Jayanagar,Motichoor Laddu,₹876.00,,450.0
+2025-08-06,Jayanagar,Dry Fruit Mixture,₹933.00,7.0,600.0
+2025-12-16,Malleswaram,Special Mysore Paak,₹870.00,8.0,500.0
+2025-05-28,Indiranagar,Special Mysore Paak,₹870.00,3.0,500.0
+2025-07-15,Jayanagar,Kaju Katli,"₹1,276.00",7.0,800.0
+2025-06-30,Indiranagar,Chandrakala,₹819.00,13.0,400.0
+2025-10-26,Indiranagar,Special Mysore Paak,₹870.00,7.0,500.0
+2025-11-23,Malleswaram,Motichoor Laddu,₹876.00,8.0,450.0
+2025-01-18,Malleswaram,Kaju Katli,"₹1,276.00",12.0,800.0
+2025-06-21,Jayanagar,Kaju Katli,"₹1,276.00",4.0,800.0
+2025-12-03,Malleswaram,Special Mysore Paak,₹870.00,5.0,500.0
+2025-10-21,Malleswaram,Chandrakala,₹819.00,5.0,400.0
+2025-02-26,Jayanagar,Chandrakala,₹819.00,5.0,400.0
+2025-06-28,Jayanagar,Chandrakala,₹819.00,4.0,400.0
+2025-03-09,Indiranagar,Motichoor Laddu,₹876.00,13.0,450.0
+2025-08-03,Jayanagar,Kaju Katli,"₹1,276.00",1.0,800.0
+2025-01-29,Malleswaram,Dry Fruit Mixture,₹933.00,12.0,600.0
+2025-01-02,Indiranagar,Dry Fruit Mixture,₹933.00,9.0,600.0
+2025-02-23,Indiranagar,Kaju Katli,"₹1,276.00",12.0,800.0
+2025-12-26,Malleswaram,Special Mysore Paak,₹870.00,2.0,500.0
+2025-09-12,Jayanagar,Special Mysore Paak,₹870.00,4.0,500.0
+2025-02-17,Jayanagar,Dry Fruit Mixture,₹933.00,4.0,600.0
+2025-07-22,Jayanagar,Dry Fruit Mixture,₹933.00,9.0,600.0
+2025-06-30,Jayanagar,Chandrakala,₹819.00,9.0,400.0
+2025-03-06,Indiranagar,Special Mysore Paak,₹870.00,2.0,500.0
+2025-03-20,Malleswaram,Special Mysore Paak,₹870.00,11.0,500.0
+2025-02-22,Indiranagar,Special Mysore Paak,₹870.00,14.0,500.0
+2025-03-26,Malleswaram,Motichoor Laddu,₹876.00,14.0,450.0
+2025-11-19,Jayanagar,Dry Fruit Mixture,₹933.00,6.0,600.0
+2025-09-09,Indiranagar,Kaju Katli,"₹1,276.00",5.0,800.0
+2025-07-14,Jayanagar,Kaju Katli,"₹1,276.00",5.0,800.0
+2025-09-12,Indiranagar,Special Mysore Paak,₹870.00,1.0,500.0
+2025-11-24,Malleswaram,Special Mysore Paak,₹870.00,2.0,500.0
+2025-12-22,Jayanagar,Kaju Katli,"₹1,276.00",9.0,800.0
+2025-12-20,Jayanagar,Kaju Katli,"₹1,276.00",11.0,800.0
+2025-09-19,,Kaju Katli,"₹1,276.00",12.0,800.0
+2025-08-11,Malleswaram,Kaju Katli,"₹1,276.00",,800.0
+2025-11-05,Indiranagar,Special Mysore Paak,₹870.00,11.0,500.0
+2025-11-15,Jayanagar,Dry Fruit Mixture,₹933.00,15.0,600.0
+2025-04-02,Jayanagar,Dry Fruit Mixture,₹933.00,12.0,600.0
+2025-01-29,Jayanagar,Chandrakala,₹819.00,10.0,400.0
+2025-11-16,Malleswaram,Dry Fruit Mixture,₹933.00,6.0,600.0
+2025-11-12,Jayanagar,Kaju Katli,"₹1,276.00",,800.0
+2025-01-19,Jayanagar,Dry Fruit Mixture,₹933.00,5.0,600.0
+2025-10-17,Jayanagar,Dry Fruit Mixture,₹933.00,8.0,600.0
+2025-04-15,Jayanagar,Special Mysore Paak,₹870.00,4.0,500.0
+2025-08-07,Jayanagar,Special Mysore Paak,₹870.00,12.0,500.0
+2025-08-15,Jayanagar,Dry Fruit Mixture,₹933.00,9.0,600.0
+2025-08-14,Malleswaram,Kaju Katli,"₹1,276.00",14.0,800.0
+2025-09-19,Indiranagar,Dry Fruit Mixture,₹933.00,11.0,600.0
+2025-11-28,Indiranagar,Special Mysore Paak,₹870.00,4.0,500.0
+2025-05-21,Indiranagar,Motichoor Laddu,₹876.00,10.0,450.0
+2025-06-24,Indiranagar,Motichoor Laddu,₹876.00,15.0,450.0
+2025-09-14,Malleswaram,Special Mysore Paak,₹870.00,2.0,500.0
+2025-11-04,Indiranagar,Kaju Katli,"₹1,276.00",2.0,800.0
+2025-10-04,Indiranagar,Chandrakala,₹819.00,9.0,400.0
+2025-02-01,Indiranagar,Motichoor Laddu,₹876.00,11.0,450.0
+2025-07-07,Malleswaram,Chandrakala,₹819.00,7.0,400.0
+2025-11-26,Indiranagar,Special Mysore Paak,₹870.00,3.0,500.0
+2025-03-10,Jayanagar,Motichoor Laddu,₹876.00,8.0,450.0
+2025-09-24,Jayanagar,Dry Fruit Mixture,₹933.00,2.0,600.0
+2025-11-26,Malleswaram,Kaju Katli,"₹1,276.00",2.0,800.0
+2025-12-25,Malleswaram,Motichoor Laddu,₹876.00,7.0,450.0
+2025-02-26,Jayanagar,Motichoor Laddu,₹876.00,11.0,450.0
+2025-04-20,Indiranagar,Special Mysore Paak,₹870.00,3.0,500.0
+2025-01-01,Malleswaram,Motichoor Laddu,₹876.00,13.0,450.0
+2025-04-01,Indiranagar,Motichoor Laddu,₹876.00,14.0,450.0
+2025-01-15,Malleswaram,Dry Fruit Mixture,₹933.00,7.0,600.0
+2025-10-08,Indiranagar,Special Mysore Paak,₹870.00,1.0,500.0
+2025-04-06,Malleswaram,Special Mysore Paak,₹870.00,,500.0
+2025-09-13,Malleswaram,Special Mysore Paak,₹870.00,5.0,500.0
+2025-01-19,Malleswaram,Special Mysore Paak,₹870.00,4.0,500.0
+2025-03-15,Malleswaram,Kaju Katli,"₹1,276.00",5.0,800.0
+2025-09-16,Indiranagar,Special Mysore Paak,₹870.00,12.0,500.0
+2025-09-13,Indiranagar,Dry Fruit Mixture,₹933.00,12.0,600.0
+2025-01-11,Jayanagar,Chandrakala,₹819.00,12.0,400.0
+2025-09-13,Jayanagar,Chandrakala,₹819.00,15.0,400.0
+2025-05-04,Malleswaram,Kaju Katli,"₹1,276.00",6.0,800.0
+2025-10-24,Jayanagar,Kaju Katli,"₹1,276.00",7.0,800.0
+2025-12-08,Jayanagar,Kaju Katli,"₹1,276.00",6.0,800.0
+2025-09-29,,Dry Fruit Mixture,₹933.00,13.0,600.0
+2025-10-12,Malleswaram,Motichoor Laddu,₹876.00,,450.0
+2025-07-28,Malleswaram,Kaju Katli,"₹1,276.00",3.0,800.0
+2025-07-18,Indiranagar,Special Mysore Paak,₹870.00,9.0,500.0
+2025-06-08,Malleswaram,Kaju Katli,"₹1,276.00",13.0,800.0
+2025-09-08,Indiranagar,Special Mysore Paak,₹870.00,3.0,500.0
+2025-12-08,Indiranagar,Dry Fruit Mixture,₹933.00,9.0,600.0
+2025-06-04,Indiranagar,Motichoor Laddu,₹876.00,5.0,450.0
+2025-01-11,Jayanagar,Special Mysore Paak,₹870.00,4.0,500.0
+2025-07-29,Malleswaram,Chandrakala,₹819.00,,400.0
+2025-01-15,Indiranagar,Kaju Katli,"₹1,276.00",1.0,800.0
+2025-12-08,Jayanagar,Special Mysore Paak,₹870.00,8.0,500.0
+2025-01-01,Malleswaram,Chandrakala,₹819.00,1.0,400.0
+2025-10-20,Jayanagar,Chandrakala,₹819.00,12.0,400.0
+2025-04-19,Indiranagar,Kaju Katli,"₹1,276.00",8.0,800.0
+2025-03-01,Jayanagar,Special Mysore Paak,₹870.00,10.0,500.0
+2025-10-25,Malleswaram,Kaju Katli,"₹1,276.00",7.0,800.0
+2025-11-02,Indiranagar,Chandrakala,₹819.00,10.0,400.0
+2025-11-18,Indiranagar,Chandrakala,₹819.00,14.0,400.0
+2025-07-10,Jayanagar,Chandrakala,₹819.00,13.0,400.0
+2025-12-08,Indiranagar,Kaju Katli,"₹1,276.00",14.0,800.0
+2025-05-19,Malleswaram,Motichoor Laddu,₹876.00,6.0,450.0
+2025-03-03,Jayanagar,Dry Fruit Mixture,₹933.00,12.0,600.0
+2025-11-21,Indiranagar,Chandrakala,₹819.00,15.0,400.0
+2025-04-25,Indiranagar,Dry Fruit Mixture,₹933.00,13.0,600.0
+2025-06-20,Indiranagar,Dry Fruit Mixture,₹933.00,,600.0
+2025-06-18,Malleswaram,Dry Fruit Mixture,₹933.00,4.0,600.0
+2025-11-28,Malleswaram,Chandrakala,₹819.00,3.0,400.0
+2025-07-28,Indiranagar,Special Mysore Paak,₹870.00,15.0,500.0
+2025-11-07,Indiranagar,Motichoor Laddu,₹876.00,6.0,450.0
+2025-02-06,Jayanagar,Chandrakala,₹819.00,15.0,400.0
+2025-09-10,Indiranagar,Dry Fruit Mixture,₹933.00,,600.0
+2025-08-10,Indiranagar,Dry Fruit Mixture,₹933.00,13.0,600.0
+2025-01-26,Jayanagar,Dry Fruit Mixture,₹933.00,6.0,600.0
+2025-11-12,Malleswaram,Motichoor Laddu,₹876.00,10.0,450.0
+2025-04-10,Jayanagar,Kaju Katli,"₹1,276.00",7.0,800.0
+2025-10-20,Malleswaram,Dry Fruit Mixture,₹933.00,4.0,600.0
+2025-11-13,Jayanagar,Motichoor Laddu,₹876.00,12.0,450.0
+2025-07-15,Malleswaram,Chandrakala,₹819.00,3.0,400.0
+2025-07-14,Indiranagar,Dry Fruit Mixture,₹933.00,12.0,600.0
+2025-10-26,Indiranagar,Motichoor Laddu,₹876.00,5.0,450.0
+2025-06-17,Malleswaram,Dry Fruit Mixture,₹933.00,14.0,600.0
+2025-06-07,Jayanagar,Dry Fruit Mixture,₹933.00,2.0,600.0
+2025-03-07,Malleswaram,Motichoor Laddu,₹876.00,2.0,450.0
+2025-05-24,Malleswaram,Dry Fruit Mixture,₹933.00,12.0,600.0
+2025-05-18,Jayanagar,Motichoor Laddu,₹876.00,10.0,450.0
+2025-12-21,Malleswaram,Chandrakala,₹819.00,6.0,400.0
+2025-05-18,Jayanagar,Special Mysore Paak,₹870.00,12.0,500.0
+2025-05-21,Indiranagar,Motichoor Laddu,₹876.00,10.0,450.0
+2025-04-26,Jayanagar,Kaju Katli,"₹1,276.00",12.0,800.0
+2025-01-16,Malleswaram,Special Mysore Paak,₹870.00,10.0,500.0
+2025-01-08,Malleswaram,Chandrakala,₹819.00,5.0,400.0
+2025-02-21,Jayanagar,Kaju Katli,"₹1,276.00",13.0,800.0
+2025-08-23,Jayanagar,Special Mysore Paak,₹870.00,9.0,500.0
+2025-02-12,Indiranagar,Chandrakala,₹819.00,6.0,400.0
+2025-08-18,Malleswaram,Chandrakala,₹819.00,15.0,400.0
+2025-09-22,Indiranagar,Chandrakala,₹819.00,11.0,400.0
+2025-06-29,Jayanagar,Chandrakala,₹819.00,12.0,400.0
+2025-02-12,Jayanagar,Dry Fruit Mixture,₹933.00,3.0,600.0
+2025-05-09,,Kaju Katli,"₹1,276.00",15.0,800.0
+2025-01-26,Malleswaram,Chandrakala,₹819.00,8.0,400.0
+2025-11-13,Jayanagar,Dry Fruit Mixture,₹933.00,1.0,600.0
+2025-08-30,Indiranagar,Chandrakala,₹819.00,15.0,400.0
+2025-04-03,Jayanagar,Special Mysore Paak,₹870.00,11.0,500.0
+2025-11-02,Jayanagar,Motichoor Laddu,₹876.00,13.0,450.0
+2025-10-15,Indiranagar,Motichoor Laddu,₹876.00,13.0,450.0
+2025-03-17,Jayanagar,Special Mysore Paak,₹870.00,6.0,500.0
+2025-01-23,Jayanagar,Dry Fruit Mixture,₹933.00,6.0,600.0
+2025-10-13,Indiranagar,Kaju Katli,"₹1,276.00",7.0,800.0
+2025-08-26,,Dry Fruit Mixture,₹933.00,6.0,600.0
+2025-11-17,Jayanagar,Kaju Katli,"₹1,276.00",11.0,800.0
+2025-01-01,Jayanagar,Chandrakala,₹819.00,6.0,400.0
+2025-05-13,,Dry Fruit Mixture,₹933.00,7.0,600.0
+2025-09-16,Jayanagar,Dry Fruit Mixture,₹933.00,4.0,600.0
+2025-10-20,Jayanagar,Chandrakala,₹819.00,6.0,400.0
+2025-12-06,Indiranagar,Special Mysore Paak,₹870.00,,500.0
+2025-11-27,Malleswaram,Chandrakala,₹819.00,8.0,400.0
+2025-01-15,Indiranagar,Kaju Katli,"₹1,276.00",14.0,800.0
+2025-11-21,Jayanagar,Dry Fruit Mixture,₹933.00,14.0,600.0
+2025-05-23,Malleswaram,Chandrakala,₹819.00,13.0,400.0
+2025-01-11,Malleswaram,Chandrakala,₹819.00,2.0,400.0
+2025-07-01,,Motichoor Laddu,₹876.00,12.0,450.0
+2025-08-24,Indiranagar,Chandrakala,₹819.00,11.0,400.0
+2025-05-06,Jayanagar,Dry Fruit Mixture,₹933.00,7.0,600.0
+2025-07-26,Malleswaram,Kaju Katli,"₹1,276.00",4.0,800.0
+2025-06-12,Malleswaram,Kaju Katli,"₹1,276.00",10.0,800.0
+2025-12-27,Malleswaram,Special Mysore Paak,₹870.00,1.0,500.0
+2025-01-19,Jayanagar,Dry Fruit Mixture,₹933.00,5.0,600.0
+2025-07-08,Malleswaram,Motichoor Laddu,₹876.00,5.0,450.0
+2025-07-25,Malleswaram,Chandrakala,₹819.00,6.0,400.0
+2025-01-15,Jayanagar,Dry Fruit Mixture,₹933.00,15.0,600.0
+2025-01-16,Jayanagar,Chandrakala,₹819.00,3.0,400.0
+2025-10-29,Indiranagar,Special Mysore Paak,₹870.00,13.0,500.0
+2025-12-03,,Chandrakala,₹819.00,13.0,400.0
+2025-11-02,Indiranagar,Special Mysore Paak,₹870.00,8.0,500.0
+2025-08-02,Indiranagar,Dry Fruit Mixture,₹933.00,14.0,600.0
+2025-08-15,,Kaju Katli,"₹1,276.00",5.0,800.0
+2025-04-10,Malleswaram,Dry Fruit Mixture,₹933.00,13.0,600.0
+2025-10-09,Malleswaram,Motichoor Laddu,₹876.00,9.0,450.0
+2025-05-27,Indiranagar,Kaju Katli,"₹1,276.00",13.0,800.0
+2025-08-07,Malleswaram,Special Mysore Paak,₹870.00,10.0,500.0
+2025-02-10,Indiranagar,Kaju Katli,"₹1,276.00",12.0,800.0
+2025-07-15,Jayanagar,Special Mysore Paak,₹870.00,8.0,500.0
+2025-10-26,Malleswaram,Kaju Katli,"₹1,276.00",2.0,800.0
+2025-08-06,Jayanagar,Special Mysore Paak,₹870.00,6.0,500.0
+2025-10-24,Indiranagar,Dry Fruit Mixture,₹933.00,15.0,600.0
+2025-03-17,Malleswaram,Kaju Katli,"₹1,276.00",8.0,800.0
+2025-12-06,Jayanagar,Special Mysore Paak,₹870.00,7.0,500.0
+2025-02-25,Jayanagar,Dry Fruit Mixture,₹933.00,8.0,600.0
+2025-09-23,Indiranagar,Special Mysore Paak,₹870.00,13.0,500.0
+2025-02-10,Jayanagar,Dry Fruit Mixture,₹933.00,12.0,600.0
+2025-07-15,Indiranagar,Dry Fruit Mixture,₹933.00,,600.0
+2025-11-11,Malleswaram,Chandrakala,₹819.00,1.0,400.0
+2025-12-11,Malleswaram,Kaju Katli,"₹1,276.00",15.0,800.0
+2025-02-10,Jayanagar,Kaju Katli,"₹1,276.00",1.0,800.0
+2025-11-09,Indiranagar,Special Mysore Paak,₹870.00,12.0,500.0
+2025-09-07,Jayanagar,Dry Fruit Mixture,₹933.00,10.0,600.0
+2025-04-08,Malleswaram,Dry Fruit Mixture,₹933.00,,600.0
+2025-12-09,Indiranagar,Special Mysore Paak,₹870.00,5.0,500.0
+2025-01-03,Jayanagar,Kaju Katli,"₹1,276.00",12.0,800.0
+2025-06-29,Indiranagar,Special Mysore Paak,₹870.00,5.0,500.0
+2025-03-30,Jayanagar,Special Mysore Paak,₹870.00,15.0,500.0
+2025-11-23,Indiranagar,Kaju Katli,"₹1,276.00",10.0,800.0
+2025-12-22,Malleswaram,Kaju Katli,"₹1,276.00",15.0,800.0
+2025-06-08,Indiranagar,Motichoor Laddu,₹876.00,11.0,450.0
+2025-10-08,Indiranagar,Dry Fruit Mixture,₹933.00,3.0,600.0
+2025-08-04,Indiranagar,Dry Fruit Mixture,₹933.00,13.0,600.0
+2025-11-23,Jayanagar,Motichoor Laddu,₹876.00,13.0,450.0
+2025-01-02,Indiranagar,Motichoor Laddu,₹876.00,6.0,450.0
+2025-03-19,Jayanagar,Motichoor Laddu,₹876.00,8.0,450.0
+2025-07-25,Jayanagar,Kaju Katli,"₹1,276.00",,800.0
+2025-12-16,Malleswaram,Special Mysore Paak,₹870.00,7.0,500.0
+2025-12-23,Jayanagar,Chandrakala,₹819.00,8.0,400.0
+2025-01-28,Jayanagar,Special Mysore Paak,₹870.00,14.0,500.0
+2025-10-12,Jayanagar,Motichoor Laddu,₹876.00,10.0,450.0
+2025-10-10,Malleswaram,Motichoor Laddu,₹876.00,12.0,450.0
+2025-08-29,Indiranagar,Motichoor Laddu,₹876.00,3.0,450.0
+2025-10-14,Malleswaram,Chandrakala,₹819.00,5.0,400.0
+2025-06-17,Indiranagar,Dry Fruit Mixture,₹933.00,4.0,600.0
+2025-11-29,Indiranagar,Kaju Katli,"₹1,276.00",9.0,800.0
+2025-03-15,Jayanagar,Special Mysore Paak,₹870.00,12.0,500.0
+2025-12-13,Jayanagar,Motichoor Laddu,₹876.00,5.0,450.0
+2025-07-29,Malleswaram,Chandrakala,₹819.00,1.0,400.0
+2025-02-04,Indiranagar,Kaju Katli,"₹1,276.00",12.0,800.0
+2025-04-27,Malleswaram,Chandrakala,₹819.00,12.0,400.0
+2025-09-17,Indiranagar,Motichoor Laddu,₹876.00,,450.0
+2025-06-23,Jayanagar,Special Mysore Paak,₹870.00,6.0,500.0
+2025-08-03,Malleswaram,Motichoor Laddu,₹876.00,1.0,450.0
+2025-03-19,Indiranagar,Chandrakala,₹819.00,14.0,400.0
+2025-12-31,Malleswaram,Special Mysore Paak,₹870.00,13.0,500.0
+2025-12-14,Malleswaram,Special Mysore Paak,₹870.00,10.0,500.0
+2025-05-15,Malleswaram,Special Mysore Paak,₹870.00,3.0,500.0
+2025-08-04,Malleswaram,Chandrakala,₹819.00,13.0,400.0
+2025-12-23,Malleswaram,Chandrakala,₹819.00,8.0,400.0
+2025-01-23,Jayanagar,Dry Fruit Mixture,₹933.00,13.0,600.0
+2025-05-22,Jayanagar,Special Mysore Paak,₹870.00,15.0,500.0
+2025-11-29,Jayanagar,Chandrakala,₹819.00,13.0,400.0
+2025-11-23,Jayanagar,Dry Fruit Mixture,₹933.00,6.0,600.0
+2025-10-16,Jayanagar,Kaju Katli,"₹1,276.00",1.0,800.0
+2025-04-24,Indiranagar,Dry Fruit Mixture,₹933.00,6.0,600.0
+2025-04-28,,Kaju Katli,"₹1,276.00",1.0,800.0
+2025-06-12,Indiranagar,Kaju Katli,"₹1,276.00",10.0,800.0
+2025-11-08,Indiranagar,Kaju Katli,"₹1,276.00",1.0,800.0
+2025-02-24,Malleswaram,Motichoor Laddu,₹876.00,7.0,450.0
+2025-12-19,Jayanagar,Dry Fruit Mixture,₹933.00,12.0,600.0
+2025-06-24,Indiranagar,Kaju Katli,"₹1,276.00",6.0,800.0
+2025-06-18,Jayanagar,Chandrakala,₹819.00,1.0,400.0
+2025-02-02,Malleswaram,Chandrakala,₹819.00,1.0,400.0
+2025-06-14,Malleswaram,Chandrakala,₹819.00,15.0,400.0
+2025-02-25,Jayanagar,Chandrakala,₹819.00,10.0,400.0
+2025-04-16,Indiranagar,Dry Fruit Mixture,₹933.00,6.0,600.0
+2025-06-11,Malleswaram,Kaju Katli,"₹1,276.00",14.0,800.0
+2025-03-31,Jayanagar,Dry Fruit Mixture,₹933.00,11.0,600.0
+2025-10-26,Indiranagar,Kaju Katli,"₹1,276.00",1.0,800.0
+2025-07-24,Jayanagar,Special Mysore Paak,₹870.00,1.0,500.0
+2025-11-13,Jayanagar,Dry Fruit Mixture,₹933.00,7.0,600.0
+2025-04-08,Indiranagar,Chandrakala,₹819.00,8.0,400.0
+2025-09-30,Indiranagar,Kaju Katli,"₹1,276.00",14.0,800.0
+2025-11-19,Indiranagar,Motichoor Laddu,₹876.00,4.0,450.0
+2025-06-23,Indiranagar,Motichoor Laddu,₹876.00,3.0,450.0
+2025-03-22,Indiranagar,Dry Fruit Mixture,₹933.00,6.0,600.0
+2025-02-05,Malleswaram,Motichoor Laddu,₹876.00,10.0,450.0
+2025-08-28,Malleswaram,Dry Fruit Mixture,₹933.00,1.0,600.0
+2025-08-10,Jayanagar,Dry Fruit Mixture,₹933.00,15.0,600.0
+2025-09-14,Malleswaram,Chandrakala,₹819.00,,400.0
+2025-09-29,Jayanagar,Kaju Katli,"₹1,276.00",8.0,800.0
+2025-02-24,Jayanagar,Motichoor Laddu,₹876.00,10.0,450.0
+2025-01-27,Malleswaram,Dry Fruit Mixture,₹933.00,5.0,600.0
+2025-01-23,Jayanagar,Chandrakala,₹819.00,9.0,400.0
+2025-09-11,Jayanagar,Chandrakala,₹819.00,15.0,400.0
+2025-12-20,Indiranagar,Kaju Katli,"₹1,276.00",13.0,800.0
+2025-03-20,Malleswaram,Kaju Katli,"₹1,276.00",13.0,800.0
+2025-05-19,Jayanagar,Special Mysore Paak,₹870.00,13.0,500.0
+2025-01-22,Malleswaram,Dry Fruit Mixture,₹933.00,8.0,600.0
+2025-11-16,Malleswaram,Motichoor Laddu,₹876.00,8.0,450.0
+2025-05-02,Malleswaram,Kaju Katli,"₹1,276.00",5.0,800.0
+2025-02-02,Malleswaram,Kaju Katli,"₹1,276.00",5.0,800.0
+2025-02-22,Indiranagar,Dry Fruit Mixture,₹933.00,7.0,600.0
+2025-04-27,Malleswaram,Motichoor Laddu,₹876.00,3.0,450.0
+2025-01-03,Malleswaram,Kaju Katli,"₹1,276.00",4.0,800.0
+2025-03-27,Malleswaram,Special Mysore Paak,₹870.00,15.0,500.0
+2025-05-13,Malleswaram,Motichoor Laddu,₹876.00,11.0,450.0
+2025-01-01,Indiranagar,Motichoor Laddu,₹876.00,,450.0
+2025-08-23,Indiranagar,Special Mysore Paak,₹870.00,5.0,500.0
+2025-09-18,Indiranagar,Chandrakala,₹819.00,5.0,400.0
+2025-05-04,Malleswaram,Dry Fruit Mixture,₹933.00,6.0,600.0
+2025-08-09,Jayanagar,Kaju Katli,"₹1,276.00",9.0,800.0
+2025-10-20,Jayanagar,Chandrakala,₹819.00,12.0,400.0
+2025-08-14,Jayanagar,Kaju Katli,"₹1,276.00",2.0,800.0
+2025-05-25,Malleswaram,Dry Fruit Mixture,₹933.00,10.0,600.0
+2025-05-06,Malleswaram,Motichoor Laddu,₹876.00,14.0,450.0
+2025-08-28,Malleswaram,Special Mysore Paak,₹870.00,11.0,500.0
+2025-01-20,Jayanagar,Dry Fruit Mixture,₹933.00,15.0,600.0
+2025-02-11,Jayanagar,Special Mysore Paak,₹870.00,14.0,500.0
+2025-05-21,Indiranagar,Dry Fruit Mixture,₹933.00,15.0,600.0
+2025-12-07,Jayanagar,Chandrakala,₹819.00,15.0,400.0
+2025-01-26,Indiranagar,Chandrakala,₹819.00,1.0,400.0
+2025-08-30,Malleswaram,Dry Fruit Mixture,₹933.00,7.0,600.0
+2025-12-17,Jayanagar,Dry Fruit Mixture,₹933.00,1.0,600.0
+2025-08-18,Malleswaram,Special Mysore Paak,₹870.00,6.0,500.0
+2025-12-06,Jayanagar,Dry Fruit Mixture,₹933.00,,600.0
+2025-09-05,Indiranagar,Dry Fruit Mixture,₹933.00,13.0,600.0
+2025-04-16,Indiranagar,Dry Fruit Mixture,₹933.00,9.0,600.0
+2025-11-22,Indiranagar,Motichoor Laddu,₹876.00,9.0,450.0
+2025-07-21,Indiranagar,Chandrakala,₹819.00,11.0,400.0
+2025-03-30,Indiranagar,Dry Fruit Mixture,₹933.00,2.0,600.0
+2025-06-07,Indiranagar,Chandrakala,₹819.00,1.0,400.0
+2025-04-22,Malleswaram,Special Mysore Paak,₹870.00,2.0,500.0
+2025-09-23,Jayanagar,Special Mysore Paak,₹870.00,7.0,500.0
+2025-03-22,Jayanagar,Chandrakala,₹819.00,2.0,400.0
+2025-10-27,Indiranagar,Dry Fruit Mixture,₹933.00,3.0,600.0
+2025-11-12,Indiranagar,Motichoor Laddu,₹876.00,6.0,450.0
+2025-05-20,Malleswaram,Dry Fruit Mixture,₹933.00,6.0,600.0
+2025-02-27,Jayanagar,Dry Fruit Mixture,₹933.00,10.0,600.0
+2025-12-16,Malleswaram,Chandrakala,₹819.00,12.0,400.0
+2025-10-18,Jayanagar,Kaju Katli,"₹1,276.00",7.0,800.0
+2025-05-23,Malleswaram,Chandrakala,₹819.00,7.0,400.0
+2025-09-21,Jayanagar,Motichoor Laddu,₹876.00,8.0,450.0
+2025-02-19,Jayanagar,Kaju Katli,"₹1,276.00",7.0,800.0
+2025-10-25,Jayanagar,Kaju Katli,"₹1,276.00",1.0,800.0
+2025-07-31,Indiranagar,Motichoor Laddu,₹876.00,6.0,450.0
+2025-05-20,Jayanagar,Kaju Katli,"₹1,276.00",14.0,800.0
+2025-04-04,Indiranagar,Special Mysore Paak,₹870.00,,500.0
+2025-09-29,Malleswaram,Dry Fruit Mixture,₹933.00,5.0,600.0
+2025-11-07,Malleswaram,Special Mysore Paak,₹870.00,7.0,500.0
+2025-05-19,Malleswaram,Kaju Katli,"₹1,276.00",11.0,800.0
+2025-06-19,Malleswaram,Chandrakala,₹819.00,6.0,400.0
+2025-03-14,Indiranagar,Special Mysore Paak,₹870.00,6.0,500.0
+2025-06-18,Malleswaram,Kaju Katli,"₹1,276.00",15.0,800.0
+2025-05-22,Jayanagar,Motichoor Laddu,₹876.00,1.0,450.0
+2025-10-27,Malleswaram,Dry Fruit Mixture,₹933.00,6.0,600.0
+2025-09-09,Jayanagar,Dry Fruit Mixture,₹933.00,12.0,600.0
+2025-09-19,Jayanagar,Dry Fruit Mixture,₹933.00,2.0,600.0
+2025-07-14,Malleswaram,Dry Fruit Mixture,₹933.00,5.0,600.0
+2025-03-31,,Dry Fruit Mixture,₹933.00,15.0,600.0
+2025-06-21,Indiranagar,Motichoor Laddu,₹876.00,1.0,450.0
+2025-06-14,Jayanagar,Chandrakala,₹819.00,12.0,400.0
+2025-06-21,Indiranagar,Chandrakala,₹819.00,8.0,400.0
+2025-10-14,Indiranagar,Dry Fruit Mixture,₹933.00,13.0,600.0
+2025-08-23,Jayanagar,Dry Fruit Mixture,₹933.00,2.0,600.0
+2025-08-02,Malleswaram,Special Mysore Paak,₹870.00,4.0,500.0
+2025-10-17,Jayanagar,Kaju Katli,"₹1,276.00",,800.0
+2025-04-06,Malleswaram,Special Mysore Paak,₹870.00,8.0,500.0
+2025-05-11,Indiranagar,Special Mysore Paak,₹870.00,9.0,500.0
+2025-10-06,Indiranagar,Dry Fruit Mixture,₹933.00,1.0,600.0
+2025-10-12,Indiranagar,Dry Fruit Mixture,₹933.00,3.0,600.0
+2025-10-18,Malleswaram,Special Mysore Paak,₹870.00,15.0,500.0
+2025-03-18,Indiranagar,Special Mysore Paak,₹870.00,5.0,500.0
+2025-10-20,Malleswaram,Chandrakala,₹819.00,6.0,400.0
+2025-06-02,Malleswaram,Special Mysore Paak,₹870.00,3.0,500.0
+2025-03-20,Indiranagar,Dry Fruit Mixture,₹933.00,7.0,600.0
+2025-09-23,,Chandrakala,₹819.00,9.0,400.0
+2025-10-21,Jayanagar,Special Mysore Paak,₹870.00,5.0,500.0
+2025-09-19,Malleswaram,Motichoor Laddu,₹876.00,10.0,450.0
+2025-09-28,Jayanagar,Special Mysore Paak,₹870.00,6.0,500.0
+2025-03-25,Malleswaram,Motichoor Laddu,₹876.00,3.0,450.0
+2025-03-13,Indiranagar,Motichoor Laddu,₹876.00,11.0,450.0
+2025-08-08,,Special Mysore Paak,₹870.00,9.0,500.0
+2025-03-13,Jayanagar,Dry Fruit Mixture,₹933.00,9.0,600.0
+2025-04-21,Jayanagar,Chandrakala,₹819.00,6.0,400.0
+2025-07-14,Indiranagar,Special Mysore Paak,₹870.00,5.0,500.0
+2025-12-22,Jayanagar,Dry Fruit Mixture,₹933.00,11.0,600.0
+2025-12-31,Indiranagar,Kaju Katli,"₹1,276.00",9.0,800.0
+2025-02-05,Jayanagar,Special Mysore Paak,₹870.00,9.0,500.0
+2025-07-29,Indiranagar,Dry Fruit Mixture,₹933.00,7.0,600.0
+2025-08-06,Indiranagar,Motichoor Laddu,₹876.00,6.0,450.0
+2025-06-01,Indiranagar,Special Mysore Paak,₹870.00,4.0,500.0
+2025-12-24,,Chandrakala,₹819.00,12.0,400.0
+2025-08-17,Jayanagar,Motichoor Laddu,₹876.00,8.0,450.0
+2025-07-15,Indiranagar,Dry Fruit Mixture,₹933.00,1.0,600.0
+2025-04-08,Indiranagar,Dry Fruit Mixture,₹933.00,12.0,600.0
+2025-06-05,Malleswaram,Motichoor Laddu,₹876.00,12.0,450.0
+2025-04-19,,Motichoor Laddu,₹876.00,4.0,450.0
+2025-11-20,Indiranagar,Special Mysore Paak,₹870.00,10.0,500.0
+2025-07-23,Indiranagar,Chandrakala,₹819.00,1.0,400.0
+2025-10-28,Jayanagar,Dry Fruit Mixture,₹933.00,15.0,600.0
+2025-03-28,Indiranagar,Kaju Katli,"₹1,276.00",12.0,800.0
+2025-01-24,Indiranagar,Special Mysore Paak,₹870.00,9.0,500.0
+2025-02-01,Jayanagar,Motichoor Laddu,₹876.00,4.0,450.0
+2025-02-10,Indiranagar,Chandrakala,₹819.00,13.0,400.0
+2025-11-22,Jayanagar,Chandrakala,₹819.00,14.0,400.0
+2025-01-30,Jayanagar,Dry Fruit Mixture,₹933.00,11.0,600.0
+2025-03-17,Indiranagar,Dry Fruit Mixture,₹933.00,11.0,600.0
+2025-02-10,Jayanagar,Kaju Katli,"₹1,276.00",5.0,800.0
+2025-11-21,Indiranagar,Special Mysore Paak,₹870.00,10.0,500.0
+2025-09-19,Malleswaram,Dry Fruit Mixture,₹933.00,11.0,600.0
+2025-09-11,Indiranagar,Dry Fruit Mixture,₹933.00,,600.0
+2025-04-09,Jayanagar,Special Mysore Paak,₹870.00,13.0,500.0
+2025-04-22,Malleswaram,Special Mysore Paak,₹870.00,12.0,500.0
+2025-03-31,Malleswaram,Special Mysore Paak,₹870.00,3.0,500.0
+2025-09-10,Malleswaram,Chandrakala,₹819.00,14.0,400.0
+2025-07-20,Jayanagar,Special Mysore Paak,₹870.00,13.0,500.0
+2025-11-03,Malleswaram,Special Mysore Paak,₹870.00,8.0,500.0
+2025-11-28,,Dry Fruit Mixture,₹933.00,3.0,600.0
+2025-12-20,Malleswaram,Special Mysore Paak,₹870.00,11.0,500.0
+2025-07-16,Jayanagar,Dry Fruit Mixture,₹933.00,12.0,600.0
+2025-11-26,Malleswaram,Kaju Katli,"₹1,276.00",5.0,800.0
+2025-04-06,Malleswaram,Dry Fruit Mixture,₹933.00,10.0,600.0
+2025-04-13,Jayanagar,Motichoor Laddu,₹876.00,10.0,450.0
+2025-01-16,Jayanagar,Special Mysore Paak,₹870.00,3.0,500.0
+2025-11-12,Jayanagar,Dry Fruit Mixture,₹933.00,2.0,600.0
+2025-09-15,Malleswaram,Dry Fruit Mixture,₹933.00,1.0,600.0
+2025-10-06,Jayanagar,Chandrakala,₹819.00,13.0,400.0
+2025-03-05,Malleswaram,Motichoor Laddu,₹876.00,4.0,450.0
+2025-06-25,Malleswaram,Chandrakala,₹819.00,1.0,400.0
+2025-04-08,Indiranagar,Chandrakala,₹819.00,8.0,400.0
+2025-06-29,Jayanagar,Special Mysore Paak,₹870.00,11.0,500.0
+2025-04-24,Jayanagar,Motichoor Laddu,₹876.00,12.0,450.0
+2025-09-05,Jayanagar,Dry Fruit Mixture,₹933.00,5.0,600.0
+2025-01-07,Jayanagar,Dry Fruit Mixture,₹933.00,14.0,600.0
+2025-10-20,Jayanagar,Motichoor Laddu,₹876.00,4.0,450.0
+2025-11-17,Indiranagar,Dry Fruit Mixture,₹933.00,3.0,600.0
+2025-05-16,Jayanagar,Special Mysore Paak,₹870.00,,500.0
+2025-09-09,Jayanagar,Kaju Katli,"₹1,276.00",3.0,800.0
+2025-08-24,Indiranagar,Dry Fruit Mixture,₹933.00,13.0,600.0
+2025-12-20,Malleswaram,Chandrakala,₹819.00,9.0,400.0
+2025-04-02,Malleswaram,Kaju Katli,"₹1,276.00",4.0,800.0
+2025-08-23,Jayanagar,Dry Fruit Mixture,₹933.00,2.0,600.0
+2025-08-16,,Chandrakala,₹819.00,4.0,400.0
+2025-12-13,,Motichoor Laddu,₹876.00,5.0,450.0
+2025-03-26,Malleswaram,Dry Fruit Mixture,₹933.00,5.0,600.0
+2025-05-22,Jayanagar,Kaju Katli,"₹1,276.00",11.0,800.0
+2025-01-23,Indiranagar,Dry Fruit Mixture,₹933.00,2.0,600.0
+2025-09-03,Indiranagar,Special Mysore Paak,₹870.00,14.0,500.0
+2025-11-09,Malleswaram,Kaju Katli,"₹1,276.00",13.0,800.0
+2025-05-16,Malleswaram,Chandrakala,₹819.00,2.0,400.0
+2025-02-23,Malleswaram,Kaju Katli,"₹1,276.00",3.0,800.0
+2025-08-11,,Dry Fruit Mixture,₹933.00,5.0,600.0
+2025-07-25,Indiranagar,Kaju Katli,"₹1,276.00",5.0,800.0
+2025-08-04,Malleswaram,Dry Fruit Mixture,₹933.00,12.0,600.0
+2025-11-01,Malleswaram,Dry Fruit Mixture,₹933.00,8.0,600.0
+2025-02-10,Jayanagar,Kaju Katli,"₹1,276.00",12.0,800.0
+2025-12-26,Malleswaram,Special Mysore Paak,₹870.00,3.0,500.0
+2025-08-15,Malleswaram,Motichoor Laddu,₹876.00,5.0,450.0
+2025-11-16,Jayanagar,Dry Fruit Mixture,₹933.00,14.0,600.0
+2025-03-24,Indiranagar,Kaju Katli,"₹1,276.00",9.0,800.0
+2025-03-07,Jayanagar,Motichoor Laddu,₹876.00,8.0,450.0
+2025-07-26,Malleswaram,Special Mysore Paak,₹870.00,7.0,500.0
+2025-11-27,Malleswaram,Dry Fruit Mixture,₹933.00,4.0,600.0
+2025-09-16,Jayanagar,Motichoor Laddu,₹876.00,8.0,450.0
+2025-09-10,Malleswaram,Kaju Katli,"₹1,276.00",15.0,800.0
+2025-07-25,Indiranagar,Dry Fruit Mixture,₹933.00,9.0,600.0
+2025-06-12,,Chandrakala,₹819.00,8.0,400.0
+2025-05-22,Jayanagar,Dry Fruit Mixture,₹933.00,13.0,600.0
+2025-06-07,Malleswaram,Special Mysore Paak,₹870.00,7.0,500.0
+2025-01-26,Jayanagar,Motichoor Laddu,₹876.00,6.0,450.0
+2025-10-16,Malleswaram,Motichoor Laddu,₹876.00,15.0,450.0
+2025-12-24,Malleswaram,Special Mysore Paak,₹870.00,7.0,500.0
+2025-12-29,Jayanagar,Dry Fruit Mixture,₹933.00,7.0,600.0
+2025-09-21,Indiranagar,Kaju Katli,"₹1,276.00",7.0,800.0
+2025-08-02,Indiranagar,Kaju Katli,"₹1,276.00",2.0,800.0
+2025-01-20,Malleswaram,Chandrakala,₹819.00,13.0,400.0
+2025-11-13,Jayanagar,Dry Fruit Mixture,₹933.00,1.0,600.0
+2025-02-15,Malleswaram,Kaju Katli,"₹1,276.00",6.0,800.0
+2025-09-11,Jayanagar,Dry Fruit Mixture,₹933.00,4.0,600.0
+2025-12-19,Jayanagar,Motichoor Laddu,₹876.00,2.0,450.0
+2025-12-31,Jayanagar,Special Mysore Paak,₹870.00,4.0,500.0
+2025-05-28,Indiranagar,Special Mysore Paak,₹870.00,8.0,500.0
+2025-12-17,,Dry Fruit Mixture,₹933.00,6.0,600.0
+2025-04-16,Jayanagar,Kaju Katli,"₹1,276.00",6.0,800.0
+2025-02-08,Malleswaram,Dry Fruit Mixture,₹933.00,1.0,600.0
+2025-03-14,Malleswaram,Kaju Katli,"₹1,276.00",15.0,800.0
+2025-09-13,Indiranagar,Special Mysore Paak,₹870.00,1.0,500.0
+2025-06-15,Jayanagar,Chandrakala,₹819.00,9.0,400.0
+2025-03-07,Indiranagar,Motichoor Laddu,₹876.00,12.0,450.0
+2025-01-15,Indiranagar,Dry Fruit Mixture,₹933.00,4.0,600.0
+2025-03-20,Malleswaram,Kaju Katli,"₹1,276.00",5.0,800.0
+2025-03-16,Jayanagar,Motichoor Laddu,₹876.00,10.0,450.0
+2025-01-12,Indiranagar,Kaju Katli,"₹1,276.00",9.0,800.0
+2025-06-29,Malleswaram,Special Mysore Paak,₹870.00,14.0,500.0
+2025-01-14,Indiranagar,Special Mysore Paak,₹870.00,9.0,500.0
+2025-10-04,Indiranagar,Kaju Katli,"₹1,276.00",14.0,800.0
+2025-04-30,Malleswaram,Kaju Katli,"₹1,276.00",14.0,800.0
+2025-04-26,Jayanagar,Special Mysore Paak,₹870.00,6.0,500.0
+2025-12-11,Malleswaram,Dry Fruit Mixture,₹933.00,1.0,600.0
+2025-01-03,Malleswaram,Special Mysore Paak,₹870.00,14.0,500.0
+2025-01-31,Indiranagar,Motichoor Laddu,₹876.00,3.0,450.0
+2025-12-16,,Dry Fruit Mixture,₹933.00,4.0,600.0
+2025-01-10,Malleswaram,Special Mysore Paak,₹870.00,10.0,500.0
+2025-06-22,Jayanagar,Chandrakala,₹819.00,9.0,400.0
+2025-08-18,Jayanagar,Kaju Katli,"₹1,276.00",12.0,800.0
+2025-09-26,Malleswaram,Motichoor Laddu,₹876.00,13.0,450.0
+2025-04-06,Indiranagar,Chandrakala,₹819.00,13.0,400.0
+2025-02-07,Indiranagar,Chandrakala,₹819.00,8.0,400.0
+2025-08-26,Jayanagar,Kaju Katli,"₹1,276.00",4.0,800.0
+2025-08-13,Malleswaram,Kaju Katli,"₹1,276.00",6.0,800.0
+2025-06-13,Indiranagar,Kaju Katli,"₹1,276.00",15.0,800.0
+2025-04-26,Jayanagar,Kaju Katli,"₹1,276.00",6.0,800.0
+2025-07-17,Jayanagar,Dry Fruit Mixture,₹933.00,3.0,600.0
+2025-07-21,Jayanagar,Dry Fruit Mixture,₹933.00,,600.0
+2025-03-06,Indiranagar,Special Mysore Paak,₹870.00,7.0,500.0
+2025-08-08,Malleswaram,Motichoor Laddu,₹876.00,2.0,450.0
+2025-06-20,Indiranagar,Chandrakala,₹819.00,3.0,400.0
+2025-02-11,Indiranagar,Dry Fruit Mixture,₹933.00,3.0,600.0
+2025-10-28,Malleswaram,Special Mysore Paak,₹870.00,9.0,500.0
+2025-10-24,Malleswaram,Chandrakala,₹819.00,10.0,400.0
+2025-07-20,Malleswaram,Kaju Katli,"₹1,276.00",9.0,800.0
+2025-10-03,,Kaju Katli,"₹1,276.00",14.0,800.0
+2025-12-15,Jayanagar,Motichoor Laddu,₹876.00,4.0,450.0
+2025-03-29,Indiranagar,Special Mysore Paak,₹870.00,5.0,500.0
+2025-01-26,Jayanagar,Dry Fruit Mixture,₹933.00,,600.0
+2025-10-19,Indiranagar,Kaju Katli,"₹1,276.00",3.0,800.0
+2025-10-13,Jayanagar,Special Mysore Paak,₹870.00,11.0,500.0
+2025-11-12,Jayanagar,Dry Fruit Mixture,₹933.00,13.0,600.0
+2025-08-20,Indiranagar,Motichoor Laddu,₹876.00,15.0,450.0
+2025-11-11,Jayanagar,Dry Fruit Mixture,₹933.00,12.0,600.0
+2025-12-21,Indiranagar,Kaju Katli,"₹1,276.00",15.0,800.0
+2025-09-07,Indiranagar,Special Mysore Paak,₹870.00,3.0,500.0
+2025-01-28,Indiranagar,Chandrakala,₹819.00,9.0,400.0
+2025-02-26,Malleswaram,Dry Fruit Mixture,₹933.00,9.0,600.0
+2025-05-20,Malleswaram,Dry Fruit Mixture,₹933.00,,600.0
+2025-12-05,Malleswaram,Special Mysore Paak,₹870.00,1.0,500.0
+2025-01-13,Malleswaram,Chandrakala,₹819.00,11.0,400.0
+2025-04-27,Malleswaram,Dry Fruit Mixture,₹933.00,8.0,600.0
+2025-07-21,Jayanagar,Motichoor Laddu,₹876.00,5.0,450.0
+2025-04-08,Malleswaram,Motichoor Laddu,₹876.00,11.0,450.0
+2025-04-07,,Motichoor Laddu,₹876.00,2.0,450.0
+2025-05-15,Jayanagar,Dry Fruit Mixture,₹933.00,9.0,600.0
+2025-03-11,Malleswaram,Dry Fruit Mixture,₹933.00,3.0,600.0
+2025-11-06,Malleswaram,Special Mysore Paak,₹870.00,6.0,500.0
+2025-01-31,Malleswaram,Kaju Katli,"₹1,276.00",12.0,800.0
+2025-01-23,Malleswaram,Chandrakala,₹819.00,1.0,400.0
+2025-12-28,Jayanagar,Kaju Katli,"₹1,276.00",10.0,800.0
+2025-03-12,Indiranagar,Kaju Katli,"₹1,276.00",2.0,800.0
+2025-03-25,Jayanagar,Motichoor Laddu,₹876.00,14.0,450.0
+2025-07-03,Jayanagar,Dry Fruit Mixture,₹933.00,9.0,600.0
+2025-10-31,Jayanagar,Chandrakala,₹819.00,,400.0
+2025-11-01,Jayanagar,Kaju Katli,"₹1,276.00",1.0,800.0
+2025-08-30,,Motichoor Laddu,₹876.00,10.0,450.0
+2025-08-06,Indiranagar,Motichoor Laddu,₹876.00,6.0,450.0
+2025-11-17,Indiranagar,Kaju Katli,"₹1,276.00",15.0,800.0
+2025-11-21,Indiranagar,Special Mysore Paak,₹870.00,15.0,500.0
+2025-06-16,Jayanagar,Dry Fruit Mixture,₹933.00,1.0,600.0
+2025-07-30,Jayanagar,Kaju Katli,"₹1,276.00",11.0,800.0
+2025-07-20,Jayanagar,Dry Fruit Mixture,₹933.00,9.0,600.0
+2025-11-23,Indiranagar,Special Mysore Paak,₹870.00,7.0,500.0
+2025-07-09,Jayanagar,Chandrakala,₹819.00,13.0,400.0
+2025-04-12,Malleswaram,Chandrakala,₹819.00,8.0,400.0
+2025-03-12,Indiranagar,Special Mysore Paak,₹870.00,10.0,500.0
+2025-01-18,Malleswaram,Dry Fruit Mixture,₹933.00,10.0,600.0
+2025-07-13,Indiranagar,Motichoor Laddu,₹876.00,14.0,450.0
+2025-12-13,Malleswaram,Special Mysore Paak,₹870.00,2.0,500.0
+2025-06-04,Indiranagar,Special Mysore Paak,₹870.00,8.0,500.0
+2025-02-13,Indiranagar,Dry Fruit Mixture,₹933.00,13.0,600.0
+2025-04-19,Indiranagar,Chandrakala,₹819.00,2.0,400.0
+2025-08-20,Malleswaram,Special Mysore Paak,₹870.00,15.0,500.0
+2025-10-21,Jayanagar,Motichoor Laddu,₹876.00,2.0,450.0
+2025-08-19,Jayanagar,Dry Fruit Mixture,₹933.00,2.0,600.0
+2025-10-04,Jayanagar,Dry Fruit Mixture,₹933.00,6.0,600.0
+2025-03-17,Indiranagar,Dry Fruit Mixture,₹933.00,11.0,600.0
+2025-03-15,Jayanagar,Special Mysore Paak,₹870.00,12.0,500.0
+2025-01-01,Jayanagar,Kaju Katli,"₹1,276.00",7.0,800.0
+2025-05-23,Indiranagar,Chandrakala,₹819.00,14.0,400.0
+2025-07-21,Jayanagar,Kaju Katli,"₹1,276.00",2.0,800.0
+2025-03-01,Malleswaram,Chandrakala,₹819.00,5.0,400.0
+2025-06-24,Jayanagar,Special Mysore Paak,₹870.00,15.0,500.0
+2025-03-06,Jayanagar,Special Mysore Paak,₹870.00,8.0,500.0
+2025-02-28,Jayanagar,Chandrakala,₹819.00,12.0,400.0
+2025-06-04,Malleswaram,Chandrakala,₹819.00,3.0,400.0
+2025-03-25,Jayanagar,Motichoor Laddu,₹876.00,8.0,450.0
+2025-02-25,Jayanagar,Kaju Katli,"₹1,276.00",14.0,800.0
+2025-09-01,Indiranagar,Chandrakala,₹819.00,1.0,400.0
+2025-11-08,Indiranagar,Dry Fruit Mixture,₹933.00,14.0,600.0
+2025-08-18,Malleswaram,Kaju Katli,"₹1,276.00",9.0,800.0
+2025-11-12,Jayanagar,Kaju Katli,"₹1,276.00",3.0,800.0
+2025-07-17,Jayanagar,Dry Fruit Mixture,₹933.00,15.0,600.0
+2025-01-17,Malleswaram,Chandrakala,₹819.00,7.0,400.0
+2025-08-18,Jayanagar,Special Mysore Paak,₹870.00,12.0,500.0
+2025-06-06,Indiranagar,Motichoor Laddu,₹876.00,9.0,450.0
+2025-06-04,Jayanagar,Motichoor Laddu,₹876.00,2.0,450.0
+2025-05-09,,Chandrakala,₹819.00,9.0,400.0
+2025-03-24,Indiranagar,Motichoor Laddu,₹876.00,7.0,450.0
+2025-06-12,Jayanagar,Motichoor Laddu,₹876.00,9.0,450.0
+2025-04-01,Indiranagar,Motichoor Laddu,₹876.00,3.0,450.0
+2025-10-20,Indiranagar,Dry Fruit Mixture,₹933.00,9.0,600.0
+2025-02-13,Indiranagar,Special Mysore Paak,₹870.00,8.0,500.0
+2025-09-01,Indiranagar,Motichoor Laddu,₹876.00,11.0,450.0
+2025-12-23,Jayanagar,Chandrakala,₹819.00,8.0,400.0
+2025-06-24,Malleswaram,Chandrakala,₹819.00,13.0,400.0
+2025-03-19,Jayanagar,Chandrakala,₹819.00,6.0,400.0
+2025-10-26,Indiranagar,Chandrakala,₹819.00,,400.0
+2025-05-21,Indiranagar,Chandrakala,₹819.00,4.0,400.0
+2025-07-24,Malleswaram,Kaju Katli,"₹1,276.00",4.0,800.0
+2025-08-14,Indiranagar,Dry Fruit Mixture,₹933.00,5.0,600.0
+2025-01-12,Malleswaram,Special Mysore Paak,₹870.00,3.0,500.0
+2025-03-08,,Motichoor Laddu,₹876.00,12.0,450.0
+2025-03-31,Jayanagar,Motichoor Laddu,₹876.00,12.0,450.0
+2025-10-16,Jayanagar,Motichoor Laddu,₹876.00,9.0,450.0
+2025-05-29,Indiranagar,Dry Fruit Mixture,₹933.00,10.0,600.0
+2025-02-08,Jayanagar,Dry Fruit Mixture,₹933.00,13.0,600.0
+2025-01-27,Malleswaram,Kaju Katli,"₹1,276.00",5.0,800.0
+2025-08-09,Malleswaram,Dry Fruit Mixture,₹933.00,3.0,600.0
+2025-05-15,Jayanagar,Chandrakala,₹819.00,12.0,400.0
+2025-11-03,Malleswaram,Special Mysore Paak,₹870.00,3.0,500.0
+2025-12-16,Malleswaram,Kaju Katli,"₹1,276.00",11.0,800.0
+2025-12-06,Malleswaram,Chandrakala,₹819.00,6.0,400.0
+2025-08-09,Indiranagar,Kaju Katli,"₹1,276.00",2.0,800.0
+2025-05-23,Indiranagar,Motichoor Laddu,₹876.00,7.0,450.0
+2025-08-06,Indiranagar,Chandrakala,₹819.00,8.0,400.0
+2025-11-29,Malleswaram,Kaju Katli,"₹1,276.00",9.0,800.0
+2025-03-13,Malleswaram,Chandrakala,₹819.00,1.0,400.0
+2025-03-23,Jayanagar,Kaju Katli,"₹1,276.00",6.0,800.0
+2025-09-22,Jayanagar,Chandrakala,₹819.00,12.0,400.0
+2025-11-01,Jayanagar,Motichoor Laddu,₹876.00,13.0,450.0
+2025-03-14,Malleswaram,Motichoor Laddu,₹876.00,12.0,450.0
+2025-04-10,Jayanagar,Motichoor Laddu,₹876.00,15.0,450.0
+2025-10-01,Jayanagar,Special Mysore Paak,₹870.00,8.0,500.0
+2025-04-03,Jayanagar,Dry Fruit Mixture,₹933.00,5.0,600.0
+2025-05-08,Jayanagar,Kaju Katli,"₹1,276.00",11.0,800.0
+2025-04-27,Malleswaram,Motichoor Laddu,₹876.00,3.0,450.0
+2025-01-28,Malleswaram,Kaju Katli,"₹1,276.00",11.0,800.0
+2025-08-01,Jayanagar,Chandrakala,₹819.00,2.0,400.0
+2025-09-16,Malleswaram,Special Mysore Paak,₹870.00,15.0,500.0
+2025-02-07,Malleswaram,Chandrakala,₹819.00,15.0,400.0
+2025-08-02,Indiranagar,Kaju Katli,"₹1,276.00",10.0,800.0
+2025-04-08,Indiranagar,Special Mysore Paak,₹870.00,14.0,500.0
+2025-02-14,Malleswaram,Special Mysore Paak,₹870.00,14.0,500.0
+2025-02-21,Indiranagar,Motichoor Laddu,₹876.00,2.0,450.0
+2025-10-17,Malleswaram,Special Mysore Paak,₹870.00,9.0,500.0
+2025-03-28,Malleswaram,Dry Fruit Mixture,₹933.00,15.0,600.0
+2025-07-10,Malleswaram,Motichoor Laddu,₹876.00,9.0,450.0
+2025-03-27,Indiranagar,Dry Fruit Mixture,₹933.00,5.0,600.0
+2025-05-01,Indiranagar,Special Mysore Paak,₹870.00,13.0,500.0
+2025-08-12,Malleswaram,Dry Fruit Mixture,₹933.00,5.0,600.0
+2025-01-01,Jayanagar,Special Mysore Paak,₹870.00,6.0,500.0
+2025-01-11,Indiranagar,Kaju Katli,"₹1,276.00",7.0,800.0
+2025-11-03,Jayanagar,Chandrakala,₹819.00,1.0,400.0
+2025-07-31,Malleswaram,Kaju Katli,"₹1,276.00",6.0,800.0
+2025-08-04,Malleswaram,Kaju Katli,"₹1,276.00",8.0,800.0
+2025-11-04,Malleswaram,Motichoor Laddu,₹876.00,1.0,450.0
+2025-05-09,Jayanagar,Kaju Katli,"₹1,276.00",4.0,800.0
+2025-05-25,Malleswaram,Motichoor Laddu,₹876.00,1.0,450.0
+2025-11-07,Jayanagar,Chandrakala,₹819.00,7.0,400.0
+2025-01-20,Indiranagar,Chandrakala,₹819.00,7.0,400.0
+2025-06-13,Malleswaram,Chandrakala,₹819.00,5.0,400.0
+2025-10-07,Malleswaram,Motichoor Laddu,₹876.00,1.0,450.0
+2025-03-12,Malleswaram,Motichoor Laddu,₹876.00,10.0,450.0
+2025-04-16,Jayanagar,Motichoor Laddu,₹876.00,9.0,450.0
+2025-12-27,Indiranagar,Motichoor Laddu,₹876.00,15.0,450.0
+2025-01-24,Jayanagar,Motichoor Laddu,₹876.00,2.0,450.0
+2025-02-22,,Special Mysore Paak,₹870.00,2.0,500.0
+2025-02-27,Malleswaram,Kaju Katli,"₹1,276.00",1.0,800.0
+2025-04-25,Indiranagar,Chandrakala,₹819.00,2.0,400.0
+2025-05-04,Jayanagar,Chandrakala,₹819.00,15.0,400.0
+2025-09-13,Jayanagar,Chandrakala,₹819.00,5.0,400.0
+2025-12-07,Malleswaram,Dry Fruit Mixture,₹933.00,4.0,600.0
+2025-04-21,Jayanagar,Special Mysore Paak,₹870.00,10.0,500.0
+2025-07-13,Jayanagar,Special Mysore Paak,₹870.00,7.0,500.0
+2025-03-14,Jayanagar,Chandrakala,₹819.00,9.0,400.0
+2025-12-05,Indiranagar,Special Mysore Paak,₹870.00,7.0,500.0
+2025-11-23,Jayanagar,Kaju Katli,"₹1,276.00",2.0,800.0
+2025-11-03,Malleswaram,Special Mysore Paak,₹870.00,6.0,500.0
+2025-05-11,Indiranagar,Special Mysore Paak,₹870.00,9.0,500.0
+2025-01-27,Malleswaram,Dry Fruit Mixture,₹933.00,7.0,600.0
+2025-07-05,Malleswaram,Special Mysore Paak,₹870.00,7.0,500.0
+2025-04-03,Malleswaram,Special Mysore Paak,₹870.00,11.0,500.0
+2025-05-04,Jayanagar,Special Mysore Paak,₹870.00,2.0,500.0
+2025-03-05,Jayanagar,Special Mysore Paak,₹870.00,8.0,500.0
+2025-03-02,Jayanagar,Chandrakala,₹819.00,1.0,400.0
+2025-11-07,Indiranagar,Dry Fruit Mixture,₹933.00,,600.0
+2025-01-26,Malleswaram,Chandrakala,₹819.00,1.0,400.0
+2025-06-17,Indiranagar,Dry Fruit Mixture,₹933.00,10.0,600.0
+2025-11-29,Malleswaram,Motichoor Laddu,₹876.00,3.0,450.0
+2025-01-24,Jayanagar,Kaju Katli,"₹1,276.00",,800.0
+2025-08-01,Jayanagar,Kaju Katli,"₹1,276.00",6.0,800.0
+2025-12-21,Indiranagar,Special Mysore Paak,₹870.00,12.0,500.0
+2025-02-01,Indiranagar,Dry Fruit Mixture,₹933.00,3.0,600.0
+2025-10-04,Jayanagar,Kaju Katli,"₹1,276.00",12.0,800.0
+2025-10-27,Jayanagar,Special Mysore Paak,₹870.00,5.0,500.0
+2025-06-15,Jayanagar,Kaju Katli,"₹1,276.00",11.0,800.0
+2025-04-13,Indiranagar,Special Mysore Paak,₹870.00,2.0,500.0
+2025-06-21,Indiranagar,Kaju Katli,"₹1,276.00",11.0,800.0
+2025-08-13,Jayanagar,Kaju Katli,"₹1,276.00",12.0,800.0
+2025-02-07,Indiranagar,Motichoor Laddu,₹876.00,12.0,450.0
+2025-09-04,Jayanagar,Special Mysore Paak,₹870.00,6.0,500.0
+2025-09-03,Jayanagar,Special Mysore Paak,₹870.00,14.0,500.0
+2025-08-30,Jayanagar,Dry Fruit Mixture,₹933.00,2.0,600.0
+2025-03-21,Malleswaram,Chandrakala,₹819.00,6.0,400.0
+2025-07-31,Malleswaram,Special Mysore Paak,₹870.00,10.0,500.0
+2025-09-07,Malleswaram,Special Mysore Paak,₹870.00,7.0,500.0
+2025-09-29,Jayanagar,Kaju Katli,"₹1,276.00",2.0,800.0
+2025-02-21,Jayanagar,Chandrakala,₹819.00,13.0,400.0
+2025-05-19,Jayanagar,Motichoor Laddu,₹876.00,13.0,450.0
+2025-06-12,Malleswaram,Kaju Katli,"₹1,276.00",12.0,800.0
+2025-01-19,Indiranagar,Motichoor Laddu,₹876.00,4.0,450.0
+2025-06-26,Jayanagar,Special Mysore Paak,₹870.00,2.0,500.0
+2025-07-05,Indiranagar,Chandrakala,₹819.00,6.0,400.0
+2025-03-27,Indiranagar,Special Mysore Paak,₹870.00,10.0,500.0
+2025-11-27,Indiranagar,Special Mysore Paak,₹870.00,11.0,500.0
+2025-08-14,Malleswaram,Special Mysore Paak,₹870.00,11.0,500.0
+2025-05-10,Indiranagar,Kaju Katli,"₹1,276.00",11.0,800.0
+2025-10-09,Indiranagar,Special Mysore Paak,₹870.00,1.0,500.0
+2025-04-26,Indiranagar,Dry Fruit Mixture,₹933.00,12.0,600.0
+2025-07-25,Indiranagar,Chandrakala,₹819.00,8.0,400.0
+2025-05-15,Malleswaram,Chandrakala,₹819.00,11.0,400.0
+2025-01-31,Jayanagar,Chandrakala,₹819.00,9.0,400.0
+2025-09-16,Jayanagar,Special Mysore Paak,₹870.00,15.0,500.0
+2025-10-28,Jayanagar,Special Mysore Paak,₹870.00,15.0,500.0
+2025-04-27,Indiranagar,Special Mysore Paak,₹870.00,4.0,500.0
+2025-12-07,Malleswaram,Special Mysore Paak,₹870.00,12.0,500.0
+2025-01-15,Malleswaram,Chandrakala,₹819.00,3.0,400.0
+2025-01-23,Jayanagar,Dry Fruit Mixture,₹933.00,6.0,600.0
+2025-04-21,Malleswaram,Dry Fruit Mixture,₹933.00,6.0,600.0
+2025-09-06,Indiranagar,Dry Fruit Mixture,₹933.00,14.0,600.0
+2025-12-13,Indiranagar,Dry Fruit Mixture,₹933.00,6.0,600.0
+2025-04-21,Indiranagar,Chandrakala,₹819.00,9.0,400.0
+2025-01-04,Malleswaram,Motichoor Laddu,₹876.00,11.0,450.0
+2025-08-19,Malleswaram,Dry Fruit Mixture,₹933.00,3.0,600.0
+2025-03-22,Indiranagar,Dry Fruit Mixture,₹933.00,15.0,600.0
+2025-04-24,Jayanagar,Dry Fruit Mixture,₹933.00,5.0,600.0
+2025-09-01,Indiranagar,Chandrakala,₹819.00,15.0,400.0
+2025-01-18,Indiranagar,Chandrakala,₹819.00,7.0,400.0
+2025-11-22,Jayanagar,Kaju Katli,"₹1,276.00",7.0,800.0
+2025-04-30,Jayanagar,Dry Fruit Mixture,₹933.00,14.0,600.0
+2025-07-07,Indiranagar,Chandrakala,₹819.00,1.0,400.0
+2025-04-08,Indiranagar,Motichoor Laddu,₹876.00,8.0,450.0
+2025-04-19,Indiranagar,Motichoor Laddu,₹876.00,8.0,450.0
+2025-07-13,Malleswaram,Dry Fruit Mixture,₹933.00,7.0,600.0
+2025-04-28,Malleswaram,Special Mysore Paak,₹870.00,2.0,500.0
+2025-01-29,Indiranagar,Kaju Katli,"₹1,276.00",4.0,800.0
+2025-09-04,Malleswaram,Chandrakala,₹819.00,3.0,400.0
+2025-01-29,Malleswaram,Motichoor Laddu,₹876.00,11.0,450.0
+2025-10-20,Jayanagar,Special Mysore Paak,₹870.00,5.0,500.0
+2025-01-11,Jayanagar,Special Mysore Paak,₹870.00,10.0,500.0
+2025-12-19,Jayanagar,Special Mysore Paak,₹870.00,10.0,500.0
+2025-10-07,Jayanagar,Chandrakala,₹819.00,14.0,400.0
+2025-06-13,Indiranagar,Special Mysore Paak,₹870.00,12.0,500.0
+2025-03-11,Jayanagar,Special Mysore Paak,₹870.00,5.0,500.0
+2025-02-06,,Dry Fruit Mixture,₹933.00,9.0,600.0
+2025-10-10,Indiranagar,Kaju Katli,"₹1,276.00",6.0,800.0
+2025-03-16,Jayanagar,Kaju Katli,"₹1,276.00",7.0,800.0
+2025-07-23,Indiranagar,Chandrakala,₹819.00,1.0,400.0
+2025-04-09,Indiranagar,Kaju Katli,"₹1,276.00",1.0,800.0
+2025-01-07,,Kaju Katli,"₹1,276.00",10.0,800.0
+2025-09-04,Malleswaram,Dry Fruit Mixture,₹933.00,8.0,600.0
+2025-02-08,Malleswaram,Kaju Katli,"₹1,276.00",,800.0
+2025-06-07,Malleswaram,Dry Fruit Mixture,₹933.00,14.0,600.0
+2025-10-29,Malleswaram,Dry Fruit Mixture,₹933.00,7.0,600.0
+2025-04-01,Jayanagar,Chandrakala,₹819.00,15.0,400.0
+2025-09-04,Jayanagar,Motichoor Laddu,₹876.00,11.0,450.0
+2025-04-24,Jayanagar,Chandrakala,₹819.00,6.0,400.0
+2025-03-22,Jayanagar,Chandrakala,₹819.00,5.0,400.0
+2025-10-29,Jayanagar,Chandrakala,₹819.00,7.0,400.0
+2025-01-22,Jayanagar,Dry Fruit Mixture,₹933.00,7.0,600.0
+2025-10-26,Malleswaram,Chandrakala,₹819.00,4.0,400.0
+2025-06-05,Jayanagar,Motichoor Laddu,₹876.00,2.0,450.0
+2025-12-05,Malleswaram,Special Mysore Paak,₹870.00,4.0,500.0
+2025-11-16,Indiranagar,Kaju Katli,"₹1,276.00",4.0,800.0
+2025-06-03,Jayanagar,Special Mysore Paak,₹870.00,10.0,500.0
+2025-03-17,Jayanagar,Special Mysore Paak,₹870.00,15.0,500.0
+2025-06-26,Jayanagar,Kaju Katli,"₹1,276.00",2.0,800.0
+2025-09-27,Jayanagar,Chandrakala,₹819.00,14.0,400.0
+2025-09-05,Malleswaram,Special Mysore Paak,₹870.00,11.0,500.0
+2025-02-26,Malleswaram,Motichoor Laddu,₹876.00,15.0,450.0
+2025-08-19,Jayanagar,Chandrakala,₹819.00,10.0,400.0
+2025-04-06,Indiranagar,Special Mysore Paak,₹870.00,10.0,500.0
+2025-04-21,Jayanagar,Dry Fruit Mixture,₹933.00,3.0,600.0
+2025-06-07,Jayanagar,Motichoor Laddu,₹876.00,7.0,450.0
+2025-05-12,Indiranagar,Dry Fruit Mixture,₹933.00,1.0,600.0
+2025-11-27,Malleswaram,Kaju Katli,"₹1,276.00",7.0,800.0
+2025-10-04,Malleswaram,Chandrakala,₹819.00,15.0,400.0
+2025-04-07,Indiranagar,Dry Fruit Mixture,₹933.00,15.0,600.0
+2025-04-04,Indiranagar,Special Mysore Paak,₹870.00,,500.0
+2025-06-03,Jayanagar,Special Mysore Paak,₹870.00,12.0,500.0
+2025-11-18,Malleswaram,Dry Fruit Mixture,₹933.00,15.0,600.0
+2025-02-08,Malleswaram,Chandrakala,₹819.00,2.0,400.0
+2025-10-29,,Dry Fruit Mixture,₹933.00,15.0,600.0
+2025-08-30,Malleswaram,Dry Fruit Mixture,₹933.00,4.0,600.0
+2025-09-10,Indiranagar,Dry Fruit Mixture,₹933.00,,600.0
+2025-01-30,Malleswaram,Motichoor Laddu,₹876.00,7.0,450.0
+2025-12-24,Indiranagar,Dry Fruit Mixture,₹933.00,13.0,600.0
+2025-02-28,Jayanagar,Kaju Katli,"₹1,276.00",11.0,800.0
+2025-04-17,Indiranagar,Special Mysore Paak,₹870.00,,500.0
+2025-08-17,Indiranagar,Chandrakala,₹819.00,3.0,400.0
+2025-06-09,Jayanagar,Motichoor Laddu,₹876.00,11.0,450.0
+2025-08-23,Indiranagar,Special Mysore Paak,₹870.00,9.0,500.0
+2025-05-30,Indiranagar,Chandrakala,₹819.00,1.0,400.0
+2025-10-08,Indiranagar,Dry Fruit Mixture,₹933.00,2.0,600.0
+2025-02-17,Indiranagar,Dry Fruit Mixture,₹933.00,4.0,600.0
+2025-08-14,Malleswaram,Chandrakala,₹819.00,2.0,400.0
+2025-07-10,Indiranagar,Chandrakala,₹819.00,13.0,400.0
+2025-12-28,Jayanagar,Special Mysore Paak,₹870.00,15.0,500.0
+2025-09-19,Malleswaram,Motichoor Laddu,₹876.00,7.0,450.0
+2025-03-05,Malleswaram,Special Mysore Paak,₹870.00,9.0,500.0
+2025-11-14,Jayanagar,Chandrakala,₹819.00,15.0,400.0
+2025-10-11,Indiranagar,Kaju Katli,"₹1,276.00",11.0,800.0
+2025-02-17,Indiranagar,Dry Fruit Mixture,₹933.00,10.0,600.0
+2025-02-01,Jayanagar,Motichoor Laddu,₹876.00,13.0,450.0
+2025-04-13,Indiranagar,Chandrakala,₹819.00,15.0,400.0
+2025-05-05,Indiranagar,Dry Fruit Mixture,₹933.00,8.0,600.0
+2025-03-03,Malleswaram,Chandrakala,₹819.00,4.0,400.0
+2025-11-12,Indiranagar,Kaju Katli,"₹1,276.00",8.0,800.0
+2025-07-06,Malleswaram,Special Mysore Paak,₹870.00,7.0,500.0
+2025-09-06,Malleswaram,Special Mysore Paak,₹870.00,1.0,500.0
+2025-02-03,Malleswaram,Dry Fruit Mixture,₹933.00,8.0,600.0
+2025-02-02,Indiranagar,Chandrakala,₹819.00,4.0,400.0
+2025-09-25,Jayanagar,Special Mysore Paak,₹870.00,11.0,500.0
+2025-09-01,Malleswaram,Chandrakala,₹819.00,5.0,400.0
+2025-03-11,Jayanagar,Dry Fruit Mixture,₹933.00,3.0,600.0
+2025-11-26,Jayanagar,Kaju Katli,"₹1,276.00",11.0,800.0
+2025-04-12,Malleswaram,Special Mysore Paak,₹870.00,2.0,500.0
+2025-01-28,Indiranagar,Kaju Katli,"₹1,276.00",7.0,800.0
+2025-12-24,Indiranagar,Special Mysore Paak,₹870.00,7.0,500.0
+2025-07-31,Indiranagar,Motichoor Laddu,₹876.00,9.0,450.0
+2025-06-06,Jayanagar,Motichoor Laddu,₹876.00,11.0,450.0
+2025-08-26,Jayanagar,Special Mysore Paak,₹870.00,10.0,500.0
+2025-01-02,Malleswaram,Chandrakala,₹819.00,5.0,400.0
+2025-08-24,Jayanagar,Chandrakala,₹819.00,12.0,400.0
+2025-11-28,Indiranagar,Special Mysore Paak,₹870.00,4.0,500.0
+2025-01-16,Malleswaram,Motichoor Laddu,₹876.00,3.0,450.0
+2025-01-20,Indiranagar,Special Mysore Paak,₹870.00,11.0,500.0
+2025-07-23,Indiranagar,Kaju Katli,"₹1,276.00",2.0,800.0
+2025-06-30,Indiranagar,Chandrakala,₹819.00,13.0,400.0
+2025-05-29,Indiranagar,Kaju Katli,"₹1,276.00",,800.0
+2025-11-05,Indiranagar,Chandrakala,₹819.00,15.0,400.0
+2025-05-30,Indiranagar,Chandrakala,₹819.00,7.0,400.0
+2025-04-01,Malleswaram,Chandrakala,₹819.00,6.0,400.0
+2025-01-14,Jayanagar,Special Mysore Paak,₹870.00,1.0,500.0
+2025-03-15,,Motichoor Laddu,₹876.00,9.0,450.0
+2025-10-17,Indiranagar,Chandrakala,₹819.00,15.0,400.0
+2025-03-08,Jayanagar,Special Mysore Paak,₹870.00,,500.0
+2025-09-10,Indiranagar,Dry Fruit Mixture,₹933.00,9.0,600.0
+2025-06-28,Malleswaram,Dry Fruit Mixture,₹933.00,7.0,600.0
+2025-12-05,Indiranagar,Dry Fruit Mixture,₹933.00,8.0,600.0
+2025-12-26,Jayanagar,Motichoor Laddu,₹876.00,5.0,450.0
+2025-08-19,Indiranagar,Kaju Katli,"₹1,276.00",5.0,800.0
+2025-06-22,Indiranagar,Special Mysore Paak,₹870.00,7.0,500.0
+2025-04-18,Indiranagar,Dry Fruit Mixture,₹933.00,7.0,600.0
+2025-08-16,Jayanagar,Special Mysore Paak,₹870.00,6.0,500.0
+2025-03-06,Malleswaram,Special Mysore Paak,₹870.00,3.0,500.0
+2025-04-29,Malleswaram,Dry Fruit Mixture,₹933.00,6.0,600.0
+2025-07-02,Indiranagar,Motichoor Laddu,₹876.00,10.0,450.0
+2025-12-22,Indiranagar,Special Mysore Paak,₹870.00,11.0,500.0
+2025-10-02,Malleswaram,Chandrakala,₹819.00,2.0,400.0
+2025-08-09,Malleswaram,Dry Fruit Mixture,₹933.00,2.0,600.0
+2025-06-08,Jayanagar,Dry Fruit Mixture,₹933.00,11.0,600.0
+2025-06-10,Malleswaram,Kaju Katli,"₹1,276.00",1.0,800.0
+2025-07-04,Indiranagar,Motichoor Laddu,₹876.00,9.0,450.0
+2025-07-31,Malleswaram,Special Mysore Paak,₹870.00,2.0,500.0
+2025-05-05,Malleswaram,Dry Fruit Mixture,₹933.00,3.0,600.0
+2025-05-14,Malleswaram,Kaju Katli,"₹1,276.00",,800.0
+2025-03-26,Jayanagar,Kaju Katli,"₹1,276.00",9.0,800.0
+2025-06-22,Indiranagar,Dry Fruit Mixture,₹933.00,11.0,600.0
+2025-06-08,Malleswaram,Special Mysore Paak,₹870.00,13.0,500.0
+2025-10-11,Indiranagar,Motichoor Laddu,₹876.00,15.0,450.0
+2025-05-12,Indiranagar,Chandrakala,₹819.00,7.0,400.0
+2025-05-02,Jayanagar,Kaju Katli,"₹1,276.00",11.0,800.0
+2025-05-07,Jayanagar,Dry Fruit Mixture,₹933.00,3.0,600.0
+2025-07-15,Indiranagar,Dry Fruit Mixture,₹933.00,12.0,600.0
+2025-08-29,,Motichoor Laddu,₹876.00,1.0,450.0
+2025-08-14,Indiranagar,Dry Fruit Mixture,₹933.00,5.0,600.0
+2025-08-07,Indiranagar,Motichoor Laddu,₹876.00,3.0,450.0
+2025-09-12,Jayanagar,Motichoor Laddu,₹876.00,7.0,450.0
+2025-11-15,Jayanagar,Motichoor Laddu,₹876.00,,450.0
+2025-07-02,Malleswaram,Kaju Katli,"₹1,276.00",6.0,800.0
+2025-11-18,Indiranagar,Chandrakala,₹819.00,3.0,400.0
+2025-05-14,Indiranagar,Dry Fruit Mixture,₹933.00,,600.0
+2025-07-02,Malleswaram,Chandrakala,₹819.00,6.0,400.0
+2025-10-30,Jayanagar,Chandrakala,₹819.00,3.0,400.0
+2025-09-28,Indiranagar,Dry Fruit Mixture,₹933.00,15.0,600.0
+2025-12-29,Jayanagar,Motichoor Laddu,₹876.00,8.0,450.0
+2025-11-18,Malleswaram,Chandrakala,₹819.00,2.0,400.0
+2025-09-11,Jayanagar,Kaju Katli,"₹1,276.00",12.0,800.0
+2025-07-03,Indiranagar,Special Mysore Paak,₹870.00,11.0,500.0
+2025-02-04,Malleswaram,Chandrakala,₹819.00,14.0,400.0
+2025-06-04,Malleswaram,Special Mysore Paak,₹870.00,3.0,500.0
+2025-11-11,Indiranagar,Kaju Katli,"₹1,276.00",15.0,800.0
+2025-03-11,Jayanagar,Special Mysore Paak,₹870.00,15.0,500.0
+2025-11-23,Jayanagar,Dry Fruit Mixture,₹933.00,2.0,600.0
+2025-06-18,Malleswaram,Chandrakala,₹819.00,9.0,400.0
+2025-11-24,Indiranagar,Chandrakala,₹819.00,7.0,400.0
+2025-10-06,Jayanagar,Dry Fruit Mixture,₹933.00,2.0,600.0
+2025-09-04,Indiranagar,Motichoor Laddu,₹876.00,10.0,450.0
+2025-03-18,Malleswaram,Special Mysore Paak,₹870.00,15.0,500.0
+2025-08-11,Indiranagar,Kaju Katli,"₹1,276.00",,800.0
+2025-03-09,Indiranagar,Motichoor Laddu,₹876.00,2.0,450.0
+2025-01-27,Malleswaram,Chandrakala,₹819.00,13.0,400.0
+2025-05-29,Indiranagar,Kaju Katli,"₹1,276.00",7.0,800.0
+2025-10-12,Malleswaram,Dry Fruit Mixture,₹933.00,4.0,600.0
+2025-08-07,Malleswaram,Chandrakala,₹819.00,14.0,400.0
+2025-01-04,Indiranagar,Motichoor Laddu,₹876.00,12.0,450.0
+2025-05-24,Malleswaram,Special Mysore Paak,₹870.00,3.0,500.0
+2025-09-26,Indiranagar,Chandrakala,₹819.00,11.0,400.0
+2025-10-06,Malleswaram,Chandrakala,₹819.00,9.0,400.0
+2025-10-31,Indiranagar,Motichoor Laddu,₹876.00,15.0,450.0
+2025-10-23,Indiranagar,Kaju Katli,"₹1,276.00",,800.0
+2025-01-16,Indiranagar,Special Mysore Paak,₹870.00,12.0,500.0
+2025-08-26,Malleswaram,Motichoor Laddu,₹876.00,15.0,450.0
+2025-06-13,Indiranagar,Dry Fruit Mixture,₹933.00,13.0,600.0
+2025-01-27,Malleswaram,Chandrakala,₹819.00,4.0,400.0
+2025-11-07,Indiranagar,Kaju Katli,"₹1,276.00",4.0,800.0
+2025-02-24,Indiranagar,Motichoor Laddu,₹876.00,7.0,450.0
+2025-04-13,Jayanagar,Kaju Katli,"₹1,276.00",3.0,800.0
+2025-02-13,Indiranagar,Kaju Katli,"₹1,276.00",12.0,800.0
+2025-04-04,Indiranagar,Dry Fruit Mixture,₹933.00,12.0,600.0
+2025-12-17,Malleswaram,Dry Fruit Mixture,₹933.00,9.0,600.0
+2025-01-14,Malleswaram,Kaju Katli,"₹1,276.00",11.0,800.0
+2025-10-30,Malleswaram,Motichoor Laddu,₹876.00,14.0,450.0
+2025-06-26,Indiranagar,Kaju Katli,"₹1,276.00",14.0,800.0
+2025-07-18,Malleswaram,Chandrakala,₹819.00,14.0,400.0
+2025-01-10,Malleswaram,Dry Fruit Mixture,₹933.00,15.0,600.0
+2025-06-30,Malleswaram,Motichoor Laddu,₹876.00,13.0,450.0
+2025-08-15,Indiranagar,Dry Fruit Mixture,₹933.00,12.0,600.0
+2025-12-02,Malleswaram,Chandrakala,₹819.00,15.0,400.0
+2025-12-29,Indiranagar,Chandrakala,₹819.00,6.0,400.0
+2025-06-22,Malleswaram,Kaju Katli,"₹1,276.00",14.0,800.0
+2025-07-24,Malleswaram,Dry Fruit Mixture,₹933.00,14.0,600.0
+2025-12-05,Malleswaram,Dry Fruit Mixture,₹933.00,7.0,600.0
+2025-04-24,Indiranagar,Motichoor Laddu,₹876.00,6.0,450.0
+2025-04-14,Indiranagar,Kaju Katli,"₹1,276.00",3.0,800.0
+2025-12-20,Malleswaram,Kaju Katli,"₹1,276.00",8.0,800.0
+2025-10-20,Indiranagar,Motichoor Laddu,₹876.00,4.0,450.0
+2025-11-06,Malleswaram,Kaju Katli,"₹1,276.00",2.0,800.0
+2025-09-08,Malleswaram,Chandrakala,₹819.00,12.0,400.0
+2025-08-04,Malleswaram,Chandrakala,₹819.00,,400.0
+2025-04-16,Indiranagar,Chandrakala,₹819.00,3.0,400.0
+2025-08-16,Indiranagar,Chandrakala,₹819.00,3.0,400.0
+2025-10-22,Malleswaram,Motichoor Laddu,₹876.00,7.0,450.0
+2025-09-17,Jayanagar,Dry Fruit Mixture,₹933.00,6.0,600.0
+2025-08-26,Indiranagar,Motichoor Laddu,₹876.00,,450.0
+2025-03-29,Malleswaram,Dry Fruit Mixture,₹933.00,9.0,600.0
+2025-08-10,Jayanagar,Motichoor Laddu,₹876.00,10.0,450.0
+2025-02-22,Jayanagar,Special Mysore Paak,₹870.00,9.0,500.0
+2025-12-20,Jayanagar,Kaju Katli,"₹1,276.00",5.0,800.0
+2025-07-15,Indiranagar,Kaju Katli,"₹1,276.00",15.0,800.0
+2025-08-10,Indiranagar,Motichoor Laddu,₹876.00,10.0,450.0
+2025-12-15,Indiranagar,Special Mysore Paak,₹870.00,3.0,500.0
+2025-03-22,Malleswaram,Dry Fruit Mixture,₹933.00,11.0,600.0
+2025-05-28,Jayanagar,Chandrakala,₹819.00,6.0,400.0
+2025-06-08,Jayanagar,Motichoor Laddu,₹876.00,,450.0
+2025-09-23,Malleswaram,Special Mysore Paak,₹870.00,11.0,500.0
+2025-11-28,Malleswaram,Chandrakala,₹819.00,14.0,400.0
+2025-07-13,Malleswaram,Motichoor Laddu,₹876.00,7.0,450.0
+2025-09-23,Malleswaram,Dry Fruit Mixture,₹933.00,8.0,600.0
+2025-09-15,Jayanagar,Dry Fruit Mixture,₹933.00,12.0,600.0
+2025-01-20,Indiranagar,Motichoor Laddu,₹876.00,2.0,450.0
+2025-03-30,Indiranagar,Motichoor Laddu,₹876.00,12.0,450.0
+2025-10-25,Malleswaram,Special Mysore Paak,₹870.00,1.0,500.0
+2025-09-30,Indiranagar,Special Mysore Paak,₹870.00,9.0,500.0
+2025-09-11,Indiranagar,Kaju Katli,"₹1,276.00",2.0,800.0
+2025-11-02,,Dry Fruit Mixture,₹933.00,4.0,600.0
+2025-04-02,Malleswaram,Dry Fruit Mixture,₹933.00,5.0,600.0
+2025-09-26,Jayanagar,Dry Fruit Mixture,₹933.00,5.0,600.0
+2025-03-02,,Motichoor Laddu,₹876.00,4.0,450.0
+2025-07-12,Indiranagar,Motichoor Laddu,₹876.00,7.0,450.0
+2025-09-07,Malleswaram,Kaju Katli,"₹1,276.00",2.0,800.0
+2025-12-22,Jayanagar,Kaju Katli,"₹1,276.00",13.0,800.0
+2025-09-05,Indiranagar,Special Mysore Paak,₹870.00,2.0,500.0
+2025-08-21,Jayanagar,Kaju Katli,"₹1,276.00",13.0,800.0
+2025-03-27,Indiranagar,Motichoor Laddu,₹876.00,6.0,450.0
+2025-11-17,Jayanagar,Kaju Katli,"₹1,276.00",11.0,800.0
+2025-01-15,Jayanagar,Special Mysore Paak,₹870.00,,500.0
+2025-11-10,Jayanagar,Chandrakala,₹819.00,4.0,400.0
+2025-09-15,Jayanagar,Kaju Katli,"₹1,276.00",12.0,800.0
+2025-07-03,Malleswaram,Special Mysore Paak,₹870.00,,500.0
+2025-10-19,Malleswaram,Chandrakala,₹819.00,3.0,400.0
+2025-05-30,Jayanagar,Chandrakala,₹819.00,4.0,400.0
+2025-07-01,Malleswaram,Dry Fruit Mixture,₹933.00,15.0,600.0
+2025-08-14,Jayanagar,Kaju Katli,"₹1,276.00",13.0,800.0
+2025-12-26,Indiranagar,Motichoor Laddu,₹876.00,14.0,450.0
+2025-05-24,Indiranagar,Chandrakala,₹819.00,12.0,400.0
+2025-01-21,Malleswaram,Chandrakala,₹819.00,11.0,400.0
+2025-07-31,Jayanagar,Kaju Katli,"₹1,276.00",7.0,800.0
+2025-10-08,Indiranagar,Dry Fruit Mixture,₹933.00,9.0,600.0
+2025-07-13,Jayanagar,Dry Fruit Mixture,₹933.00,8.0,600.0
+2025-05-12,Malleswaram,Chandrakala,₹819.00,13.0,400.0
+2025-04-02,Jayanagar,Special Mysore Paak,₹870.00,5.0,500.0
+2025-08-21,Jayanagar,Special Mysore Paak,₹870.00,4.0,500.0
+2025-10-10,Jayanagar,Dry Fruit Mixture,₹933.00,7.0,600.0
+2025-01-16,Malleswaram,Special Mysore Paak,₹870.00,6.0,500.0
+2025-08-28,Indiranagar,Motichoor Laddu,₹876.00,15.0,450.0
+2025-09-01,Indiranagar,Kaju Katli,"₹1,276.00",1.0,800.0
+2025-09-29,Jayanagar,Motichoor Laddu,₹876.00,7.0,450.0
+2025-10-11,Indiranagar,Dry Fruit Mixture,₹933.00,1.0,600.0
+2025-02-24,Indiranagar,Kaju Katli,"₹1,276.00",7.0,800.0
+2025-11-24,Malleswaram,Special Mysore Paak,₹870.00,11.0,500.0
+2025-05-27,Indiranagar,Kaju Katli,"₹1,276.00",,800.0
+2025-01-03,Indiranagar,Dry Fruit Mixture,₹933.00,12.0,600.0
+2025-09-07,Malleswaram,Special Mysore Paak,₹870.00,10.0,500.0
+2025-08-27,Malleswaram,Special Mysore Paak,₹870.00,8.0,500.0
+2025-08-24,Indiranagar,Motichoor Laddu,₹876.00,9.0,450.0
+2025-09-25,Indiranagar,Kaju Katli,"₹1,276.00",10.0,800.0
+2025-07-10,Jayanagar,Motichoor Laddu,₹876.00,10.0,450.0
+2025-02-13,Jayanagar,Chandrakala,₹819.00,7.0,400.0
+2025-12-20,Malleswaram,Chandrakala,₹819.00,2.0,400.0
+2025-09-01,Jayanagar,Chandrakala,₹819.00,15.0,400.0
+2025-07-29,Jayanagar,Kaju Katli,"₹1,276.00",11.0,800.0
+2025-05-21,Malleswaram,Kaju Katli,"₹1,276.00",15.0,800.0
+2025-08-01,Indiranagar,Motichoor Laddu,₹876.00,9.0,450.0
+2025-07-23,Jayanagar,Special Mysore Paak,₹870.00,,500.0
+2025-09-02,Malleswaram,Special Mysore Paak,₹870.00,11.0,500.0
+2025-10-30,Jayanagar,Dry Fruit Mixture,₹933.00,13.0,600.0
+2025-04-23,Malleswaram,Kaju Katli,"₹1,276.00",7.0,800.0
+2025-11-23,Jayanagar,Special Mysore Paak,₹870.00,7.0,500.0
+2025-03-27,,Kaju Katli,"₹1,276.00",9.0,800.0
+2025-03-23,Jayanagar,Chandrakala,₹819.00,10.0,400.0
+2025-01-02,Indiranagar,Motichoor Laddu,₹876.00,14.0,450.0
+2025-02-20,Malleswaram,Dry Fruit Mixture,₹933.00,4.0,600.0
+2025-08-09,Jayanagar,Kaju Katli,"₹1,276.00",15.0,800.0
+2025-08-16,Malleswaram,Chandrakala,₹819.00,12.0,400.0
+2025-04-12,Indiranagar,Dry Fruit Mixture,₹933.00,11.0,600.0
+2025-07-12,Malleswaram,Chandrakala,₹819.00,3.0,400.0
+2025-01-20,Jayanagar,Dry Fruit Mixture,₹933.00,3.0,600.0
+2025-03-25,Jayanagar,Kaju Katli,"₹1,276.00",6.0,800.0
+2025-12-24,Malleswaram,Motichoor Laddu,₹876.00,11.0,450.0
+2025-12-25,Indiranagar,Kaju Katli,"₹1,276.00",7.0,800.0
+2025-06-10,Indiranagar,Chandrakala,₹819.00,10.0,400.0
+2025-10-23,Malleswaram,Chandrakala,₹819.00,9.0,400.0
+2025-06-20,Jayanagar,Chandrakala,₹819.00,2.0,400.0
+2025-04-30,Indiranagar,Special Mysore Paak,₹870.00,12.0,500.0
+2025-10-06,Jayanagar,Kaju Katli,"₹1,276.00",1.0,800.0
+2025-05-23,Malleswaram,Special Mysore Paak,₹870.00,4.0,500.0
+2025-12-19,Jayanagar,Special Mysore Paak,₹870.00,6.0,500.0
+2025-01-10,Malleswaram,Dry Fruit Mixture,₹933.00,15.0,600.0
+2025-09-28,Indiranagar,Motichoor Laddu,₹876.00,7.0,450.0
+2025-07-12,Jayanagar,Special Mysore Paak,₹870.00,15.0,500.0
+2025-10-06,,Special Mysore Paak,₹870.00,5.0,500.0
+2025-05-14,Jayanagar,Motichoor Laddu,₹876.00,5.0,450.0
+2025-11-17,Jayanagar,Chandrakala,₹819.00,14.0,400.0
+2025-08-16,Malleswaram,Dry Fruit Mixture,₹933.00,12.0,600.0
+2025-01-12,Indiranagar,Motichoor Laddu,₹876.00,7.0,450.0
+2025-09-20,Jayanagar,Chandrakala,₹819.00,9.0,400.0
+2025-02-19,Malleswaram,Dry Fruit Mixture,₹933.00,10.0,600.0
+2025-06-07,Indiranagar,Chandrakala,₹819.00,15.0,400.0
+2025-10-31,Malleswaram,Dry Fruit Mixture,₹933.00,6.0,600.0
+2025-04-18,Indiranagar,Dry Fruit Mixture,₹933.00,14.0,600.0
+2025-02-19,Jayanagar,Motichoor Laddu,₹876.00,8.0,450.0
+2025-11-12,Jayanagar,Kaju Katli,"₹1,276.00",14.0,800.0
+2025-03-29,Indiranagar,Kaju Katli,"₹1,276.00",10.0,800.0
+2025-08-20,Jayanagar,Kaju Katli,"₹1,276.00",8.0,800.0
+2025-05-08,Malleswaram,Dry Fruit Mixture,₹933.00,2.0,600.0
+2025-03-31,Jayanagar,Chandrakala,₹819.00,11.0,400.0
+2025-09-18,Jayanagar,Kaju Katli,"₹1,276.00",9.0,800.0
+2025-06-12,Jayanagar,Kaju Katli,"₹1,276.00",3.0,800.0
+2025-04-12,Jayanagar,Chandrakala,₹819.00,6.0,400.0
+2025-03-30,Jayanagar,Dry Fruit Mixture,₹933.00,14.0,600.0
+2025-12-30,Jayanagar,Dry Fruit Mixture,₹933.00,11.0,600.0
+2025-04-30,,Kaju Katli,"₹1,276.00",8.0,800.0
+2025-05-02,Indiranagar,Chandrakala,₹819.00,9.0,400.0
+2025-09-07,Jayanagar,Chandrakala,₹819.00,5.0,400.0
+2025-09-11,Indiranagar,Special Mysore Paak,₹870.00,8.0,500.0
+2025-08-31,Jayanagar,Motichoor Laddu,₹876.00,4.0,450.0
+2025-01-31,Malleswaram,Kaju Katli,"₹1,276.00",9.0,800.0
+2025-03-23,Malleswaram,Dry Fruit Mixture,₹933.00,14.0,600.0
+2025-11-18,Indiranagar,Kaju Katli,"₹1,276.00",8.0,800.0
+2025-12-17,Indiranagar,Dry Fruit Mixture,₹933.00,9.0,600.0
+2025-06-11,Jayanagar,Chandrakala,₹819.00,12.0,400.0
+2025-03-15,Malleswaram,Special Mysore Paak,₹870.00,,500.0
+2025-08-08,Indiranagar,Dry Fruit Mixture,₹933.00,,600.0
+2025-03-04,Jayanagar,Special Mysore Paak,₹870.00,1.0,500.0
+2025-05-23,Jayanagar,Chandrakala,₹819.00,1.0,400.0
+2025-01-15,Malleswaram,Dry Fruit Mixture,₹933.00,7.0,600.0
+2025-06-17,Jayanagar,Dry Fruit Mixture,₹933.00,10.0,600.0
+2025-09-17,Indiranagar,Chandrakala,₹819.00,6.0,400.0
+2025-05-18,Jayanagar,Motichoor Laddu,₹876.00,13.0,450.0
+2025-09-06,Malleswaram,Special Mysore Paak,₹870.00,1.0,500.0
+2025-08-26,Jayanagar,Kaju Katli,"₹1,276.00",4.0,800.0
+2025-10-18,Jayanagar,Kaju Katli,"₹1,276.00",5.0,800.0
+2025-12-26,Indiranagar,Chandrakala,₹819.00,10.0,400.0
+2025-04-09,Malleswaram,Special Mysore Paak,₹870.00,6.0,500.0
+2025-03-01,Malleswaram,Dry Fruit Mixture,₹933.00,1.0,600.0
+2025-09-21,Malleswaram,Motichoor Laddu,₹876.00,10.0,450.0
+2025-12-31,Malleswaram,Chandrakala,₹819.00,10.0,400.0
+2025-09-02,Malleswaram,Motichoor Laddu,₹876.00,4.0,450.0
+2025-07-17,Indiranagar,Chandrakala,₹819.00,2.0,400.0
+2025-03-22,Indiranagar,Kaju Katli,"₹1,276.00",11.0,800.0
+2025-01-15,Indiranagar,Kaju Katli,"₹1,276.00",8.0,800.0
+2025-07-24,Indiranagar,Motichoor Laddu,₹876.00,8.0,450.0
+2025-09-20,Indiranagar,Special Mysore Paak,₹870.00,14.0,500.0
+2025-06-12,Jayanagar,Motichoor Laddu,₹876.00,4.0,450.0
+2025-11-06,Jayanagar,Dry Fruit Mixture,₹933.00,4.0,600.0
+2025-01-23,Indiranagar,Dry Fruit Mixture,₹933.00,13.0,600.0
+2025-08-27,Malleswaram,Chandrakala,₹819.00,5.0,400.0
+2025-10-06,Jayanagar,Dry Fruit Mixture,₹933.00,11.0,600.0
+2025-06-11,Malleswaram,Dry Fruit Mixture,₹933.00,12.0,600.0
+2025-02-06,Indiranagar,Chandrakala,₹819.00,6.0,400.0
+2025-10-13,Indiranagar,Motichoor Laddu,₹876.00,10.0,450.0
+2025-10-09,Malleswaram,Special Mysore Paak,₹870.00,2.0,500.0
+2025-07-21,Malleswaram,Chandrakala,₹819.00,2.0,400.0
+2025-03-28,Jayanagar,Dry Fruit Mixture,₹933.00,10.0,600.0
+2025-02-23,Indiranagar,Motichoor Laddu,₹876.00,9.0,450.0
+2025-04-16,Malleswaram,Kaju Katli,"₹1,276.00",10.0,800.0
+2025-02-22,Indiranagar,Motichoor Laddu,₹876.00,6.0,450.0
+2025-12-15,Malleswaram,Dry Fruit Mixture,₹933.00,13.0,600.0
+2025-04-08,Jayanagar,Dry Fruit Mixture,₹933.00,12.0,600.0
+2025-03-30,Malleswaram,Chandrakala,₹819.00,7.0,400.0
+2025-07-27,Indiranagar,Motichoor Laddu,₹876.00,8.0,450.0
+2025-05-12,Indiranagar,Special Mysore Paak,₹870.00,14.0,500.0
+2025-12-10,Jayanagar,Chandrakala,₹819.00,7.0,400.0
+2025-03-02,Malleswaram,Motichoor Laddu,₹876.00,13.0,450.0
+2025-07-07,Jayanagar,Motichoor Laddu,₹876.00,15.0,450.0
+2025-03-10,Jayanagar,Special Mysore Paak,₹870.00,10.0,500.0
+2025-09-12,Indiranagar,Special Mysore Paak,₹870.00,9.0,500.0
+2025-11-01,Indiranagar,Chandrakala,₹819.00,9.0,400.0
+2025-05-14,Indiranagar,Motichoor Laddu,₹876.00,6.0,450.0
+2025-05-26,Indiranagar,Kaju Katli,"₹1,276.00",1.0,800.0
+2025-01-21,Indiranagar,Chandrakala,₹819.00,7.0,400.0
+2025-02-24,Jayanagar,Motichoor Laddu,₹876.00,7.0,450.0
+2025-05-09,Indiranagar,Motichoor Laddu,₹876.00,15.0,450.0
+2025-08-27,Malleswaram,Motichoor Laddu,₹876.00,7.0,450.0
+2025-12-05,Malleswaram,Kaju Katli,"₹1,276.00",10.0,800.0
+2025-02-27,Jayanagar,Special Mysore Paak,₹870.00,13.0,500.0
